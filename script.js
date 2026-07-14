@@ -10,14 +10,33 @@ const summary = document.getElementById('summary')
 const tableContainer = document.getElementById('tableContainer')
 // columnsDatalist removed; selects are generated dynamically
 
+async function loadCsvText(text) {
+  parseCsv(text)
+  showTable(data)
+  showSummary(`Loaded ${data.length} rows and ${columns.length} columns from the active dataset.`)
+}
+
 csvFileInput.addEventListener('change', async (event) => {
   const file = event.target.files[0]
   if (!file) return
   const text = await file.text()
-  parseCsv(text)
-  showTable(data)
-  showSummary(`Loaded ${data.length} rows and ${columns.length} columns.`)
+  loadCsvText(text)
 })
+
+async function loadBundledCsv() {
+  try {
+    showSummary('Loading bundled orders.csv...')
+    const response = await fetch('orders.csv', { cache: 'no-store' })
+    if (!response.ok) throw new Error(`HTTP ${response.status}`)
+    const text = await response.text()
+    loadCsvText(text)
+  } catch (error) {
+    showSummary(`Could not load bundled orders.csv: ${error.message}`)
+    tableContainer.innerHTML = '<p style="padding:16px;">The bundled CSV could not be loaded. You can still upload one manually.</p>'
+  }
+}
+
+loadBundledCsv()
 
 categorySelect && categorySelect.addEventListener('change', () => {
   populateOperationsForCategory(categorySelect.value)
