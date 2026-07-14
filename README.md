@@ -1,7 +1,7 @@
 Activity1 — Orders CSV & In-Browser Explorer
 
 Overview
-- This project generates a realistic `orders.csv` dataset (2000 rows) using Faker and provides a browser-only data explorer (`index.html`) to load and interact with the CSV (filter, select, sort, aggregate, pivot, etc.).
+- This project generates a realistic `orders.csv` dataset (1,000,000 rows by default) using Faker and provides a browser-only data explorer (`index.html`) to load and interact with the CSV (filter, select, sort, aggregate, pivot, etc.).
 
 Files
 - `data_generation.py` — Python script that generates `orders.csv`.
@@ -14,8 +14,8 @@ Quick start
 1. Generate dataset (optional — `orders.csv` already included):
 
 ```powershell
-python -m pip install pandas faker
-python data_generation.py
+python -m pip install faker
+python data_generation.py --rows 1000000 --output orders.csv
 ```
 
 2. Open the UI:
