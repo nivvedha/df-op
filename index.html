@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Food Order Data Analysis</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Food Order Data Analysis</h1>
+      <p>Load <code>orders.csv</code> and choose operations from the dropdown.</p>
+    </header>
+
+    <section class="panel">
+      <h2>1. Load CSV</h2>
+      <input id="csvFile" type="file" accept=".csv" />
+      <p class="help">Select the generated <code>orders.csv</code>.</p>
+    </section>
+
+    <section class="panel">
+      <h2>2. Operation</h2>
+      <label>
+        Category<br />
+        <select id="categorySelect">
+          <option value="">-- choose category --</option>
+          <option value="selection">Selection</option>
+          <option value="structure">Structure</option>
+          <option value="aggregations">Aggregations</option>
+          <option value="lookups">Lookups</option>
+          <option value="pivot">Pivot</option>
+        </select>
+      </label>
+
+      <label>
+        Operation<br />
+        <select id="operationSelect">
+          <option value="">-- choose operation --</option>
+        </select>
+      </label>
+      <!-- column selects are generated dynamically in JS -->
+      <div id="operationInputs"></div>
+      <button id="runBtn">Run Operation</button>
+    </section>
+
+
+
+    <section class="panel">
+      <h2>3. Data</h2>
+      <div id="summary" class="summary"></div>
+      <div id="tableContainer" class="table-container"></div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

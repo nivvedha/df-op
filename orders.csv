@@ -1,0 +1,2001 @@
+order_id,customer_name,restaurant,food_item,order_amount,delivery_time
+1,Aryan Maharaj,Noodle Paradise,Ramen,61.25,27
+2,Udant Dewan,KFC,Chicken Strips,112.79,16
+3,Gagan Sami,Noodle Paradise,Ramen,315.72,12
+4,Ayushman Chander,Dominos,Pepperoni Pizza,148.39,42
+5,Viraj Tiwari,Taco Bell,Crunchy Taco,302.56,55
+6,Rushil Saini,Noodle Paradise,Chow Mein,149.2,47
+7,Saumya Mall,Biryani House,Chicken Biryani,391.46,20
+8,Nathaniel Sami,Dragon Wok,Hakka Noodles,203.11,19
+9,Arunima Dugal,KFC,Zinger Burger,95.99,34
+10,Gayathri Chaudry,Pizza Hut,Paneer Pizza,431.37,48
+11,Lajita Chatterjee,Biryani House,Chicken Biryani,378.38,44
+12,Hemangini Lalla,Pizza Hut,Chicken Pizza,85.46,28
+13,Tripti Yadav,Noodle Paradise,Pad Thai,309.81,55
+14,Kritika Brar,Pizza Hut,Cheese Pizza,347.57,59
+15,Janaki Handa,Biryani House,Chicken Biryani,434.89,16
+16,Chakradev Kari,Spice Kitchen,Paneer Curry,254.03,33
+17,Fariq Kaul,Subway,Turkey Sub,209.87,52
+18,Lajita Mall,Biryani House,Chicken Biryani,324.11,20
+19,Janya Gaba,Mc Donalds,Quarter Pounder,123.53,34
+20,Isha Kadakia,Biryani House,Mutton Biryani,358.08,59
+21,Ekbal Garg,Pasta Corner,Spaghetti Carbonara,153.07,12
+22,Nihal Shere,Pasta Corner,Fettuccine Alfredo,230.52,14
+23,Anamika Kanda,KFC,Zinger Burger,145.68,41
+24,Daksh Karnik,Spice Kitchen,Rogan Josh,114.29,18
+25,Diya Rattan,KFC,Zinger Burger,386.16,37
+26,Dominic Kakar,Taco Bell,Quesadilla,212.9,18
+27,Simon Tata,Mc Donalds,McSpicy,90.91,13
+28,Tara Dhar,Pizza Hut,Super Cheese Pizza,332.35,60
+29,Liam Koshy,Noodle Paradise,Chow Mein,318.38,34
+30,Priya Rastogi,Spice Kitchen,Rogan Josh,288.1,45
+31,Theodore Devi,Dominos,Pepperoni Pizza,356.77,44
+32,Gavin Batta,Pasta Corner,Fettuccine Alfredo,395.87,31
+33,Michael Dutta,Pizza Hut,Paneer Pizza,245.64,39
+34,Devansh Rajan,Dominos,Veggie Pizza,487.35,58
+35,Upadhriti Wadhwa,Subway,Veggie Sub,441.73,29
+36,Advay Contractor,Noodle Paradise,Lo Mein,118.78,58
+37,Harini Choudhury,Subway,Veggie Sub,319.53,41
+38,Radhika Dugar,Dominos,Pepperoni Pizza,468.09,29
+39,Aarush Lall,KFC,Chicken Bucket,158.39,46
+40,Yashica Cherian,Pizza Hut,Cheese Pizza,379.36,14
+41,Yashica Issac,Pasta Corner,Penne Arrabbiata,107.78,40
+42,Kashvi Edwin,Mc Donalds,Quarter Pounder,169.28,48
+43,Ekiya Suresh,Spice Kitchen,Aloo Gobi,468.01,58
+44,Isaac Patil,Dragon Wok,Egg Noodles,370.83,35
+45,Wriddhish Bhardwaj,Noodle Paradise,Pad Thai,247.15,43
+46,Farhan Chada,Burger King,Whopper Burger,161.56,14
+47,Ekapad Walia,Taj Mahal,Paneer Tikka,314.74,24
+48,Kabir Soman,Taco Bell,Soft Taco,53.24,55
+49,Alka Wable,Noodle Paradise,Ramen,153.02,12
+50,Siddharth Zacharia,Taj Mahal,Paneer Tikka,281.37,27
+51,Devika Rastogi,Noodle Paradise,Chow Mein,146.41,18
+52,Raksha Varughese,Dragon Wok,Hakka Noodles,159.35,40
+53,Jai Kota,Pasta Corner,Lasagna,135.68,16
+54,Devansh Nigam,Noodle Paradise,Chow Mein,209.43,36
+55,Victor Kannan,Burger King,Whopper Burger,353.01,51
+56,Ekavir Bhargava,Pizza Hut,Cheese Pizza,231.18,31
+57,Ekansh Balay,Pasta Corner,Spaghetti Carbonara,161.9,22
+58,Ekavir Varkey,Mc Donalds,McSpicy,113.08,21
+59,Arya Sunder,Biryani House,Hyderabadi Dum Biryani,162.41,14
+60,Kevin Solanki,Burger King,Whopper Burger,72.76,44
+61,Urvashi Ray,Dominos,Pepperoni Pizza,466.87,25
+62,Girindra Chatterjee,Subway,Italian BMT,268.54,23
+63,Irya Sampath,Spice Kitchen,Chana Masala,124.09,10
+64,Unni Bhagat,Spice Kitchen,Paneer Curry,466.93,60
+65,Darsh Rau,Burger King,Spicy Burger,240.35,56
+66,Ikbal Kothari,Pasta Corner,Lasagna,119.66,28
+67,Ranveer Yadav,KFC,Chicken Bucket,310.63,44
+68,Logan Sami,Dominos,Veggie Pizza,75.72,47
+69,Arya Shere,Burger King,Crispy Veg Burger,75.6,42
+70,Faqid Savant,Pizza Hut,Super Cheese Pizza,80.83,14
+71,Chandresh Zachariah,Noodle Paradise,Lo Mein,231.7,46
+72,Girik Khalsa,KFC,Chicken Bucket,328.72,36
+73,Niharika Sunder,Noodle Paradise,Pad Thai,470.62,23
+74,Tanay Rattan,Noodle Paradise,Pad Thai,157.41,35
+75,Nitesh Raghavan,Subway,Turkey Sub,255.75,58
+76,Madhavi Lanka,Pizza Hut,Cheese Pizza,256.23,46
+77,Bhavika Sampath,Pizza Hut,Cheese Pizza,291.94,42
+78,Mohammed Gupta,Biryani House,Mutton Biryani,469.97,14
+79,Teerth Bhardwaj,KFC,Zinger Burger,178.24,38
+80,Dipta Bhandari,Mc Donalds,McVeggie,325.25,51
+81,Vansha Thakkar,Mc Donalds,Big Mac,350.54,45
+82,Dakshesh Trivedi,Biryani House,Chicken Biryani,472.52,18
+83,Quincy Biswas,Biryani House,Chicken Biryani,450.37,57
+84,Wahab Raval,Mc Donalds,Quarter Pounder,172.56,48
+85,Yatin Baral,KFC,Zinger Burger,141.62,50
+86,Oni Virk,Biryani House,Hyderabadi Dum Biryani,163.0,13
+87,Advika Jayaraman,Pizza Hut,Chicken Pizza,423.21,12
+88,William Lanka,Dominos,Veggie Pizza,397.0,50
+89,Karan Mital,Biryani House,Mutton Biryani,383.55,45
+90,Diya Bora,Dragon Wok,Hakka Noodles,302.41,17
+91,Tara Chaudhry,Pizza Hut,Super Cheese Pizza,295.52,33
+92,Tanay Toor,Taco Bell,Soft Taco,243.4,12
+93,Kevin Palla,Biryani House,Vegetable Biryani,454.54,60
+94,Yash Pingle,Dominos,Veggie Pizza,144.53,25
+95,Nakul Sarma,Noodle Paradise,Ramen,209.16,45
+96,Abhiram Mistry,Spice Kitchen,Aloo Gobi,466.59,25
+97,Krish Lalla,Subway,Chicken Sub,446.64,11
+98,Hredhaan Dugal,Subway,Turkey Sub,402.07,36
+99,Baghyawati Kade,Pasta Corner,Penne Arrabbiata,170.06,60
+100,Samar Lalla,Dragon Wok,Fried Rice,222.14,12
+101,Zayan Behl,Burger King,Crispy Veg Burger,139.81,39
+102,Pallavi Malhotra,Taj Mahal,Butter Chicken,419.24,24
+103,Aarush Nath,KFC,Chicken Bucket,347.01,35
+104,Adweta Edwin,Taj Mahal,Butter Chicken,438.96,59
+105,Prisha Andra,Biryani House,Vegetable Biryani,338.67,35
+106,Faqid Dixit,Noodle Paradise,Pad Thai,472.66,17
+107,Kala Divan,Biryani House,Mutton Biryani,311.27,26
+108,Joshua Barman,Dominos,Pepperoni Pizza,318.46,32
+109,Janya Baral,Dragon Wok,Schezwan Rice,246.38,42
+110,Shivansh Krish,Pizza Hut,Chicken Pizza,454.78,22
+111,Irya Ray,Biryani House,Chicken Biryani,368.95,10
+112,Warjas Gaba,Mc Donalds,Quarter Pounder,213.9,14
+113,Nitara Bakshi,Noodle Paradise,Pad Thai,330.42,52
+114,Gaurangi Sabharwal,Pizza Hut,Paneer Pizza,278.21,52
+115,Amara Dutta,Spice Kitchen,Paneer Curry,231.08,28
+116,Lavanya Barad,Mc Donalds,Quarter Pounder,136.33,52
+117,Tristan Iyengar,Spice Kitchen,Aloo Gobi,326.98,29
+118,Inaya Mody,Spice Kitchen,Chana Masala,186.74,23
+119,Udant Bajwa,Spice Kitchen,Paneer Curry,259.24,38
+120,Mohini Narasimhan,Noodle Paradise,Lo Mein,280.03,60
+121,Ekaraj Mallick,Pasta Corner,Penne Arrabbiata,346.48,28
+122,Yashodhara Ratta,Mc Donalds,McVeggie,92.02,58
+123,Ayaan D’Alia,KFC,Zinger Burger,151.09,22
+124,Pranav Lanka,Subway,Veggie Sub,70.8,40
+125,Ikbal Saraf,Taco Bell,Crunchy Taco,254.94,50
+126,Dipta Sarin,Taco Bell,Soft Taco,373.26,34
+127,Lekha Gupta,Burger King,Royal Burger,159.79,51
+128,Chaitanya Sarin,Dragon Wok,Fried Rice,451.7,59
+129,Zinal Yohannan,Pizza Hut,Chicken Pizza,148.48,54
+130,Januja Sankar,Mc Donalds,McSpicy,72.6,25
+131,Ganga Murthy,Pizza Hut,Chicken Pizza,110.0,39
+132,Charita Tripathi,Noodle Paradise,Pad Thai,477.52,38
+133,Nilima Narain,Taco Bell,Quesadilla,423.76,45
+134,Chakrika Datta,Burger King,Crispy Veg Burger,384.64,40
+135,Osha Raghavan,Burger King,Spicy Burger,388.3,50
+136,Charvi Ravi,Biryani House,Hyderabadi Dum Biryani,332.04,27
+137,Daksha Mangat,Burger King,Whopper Burger,371.1,25
+138,Qushi Nagy,Biryani House,Vegetable Biryani,193.87,44
+139,Riya Sathe,Pizza Hut,Super Cheese Pizza,117.87,34
+140,Yasti Solanki,Dragon Wok,Egg Noodles,367.89,14
+141,Frado Mander,Spice Kitchen,Rogan Josh,198.9,39
+142,Girik Keer,Spice Kitchen,Chana Masala,143.08,36
+143,Umang Issac,Spice Kitchen,Chana Masala,435.53,58
+144,Aryan Batra,Taco Bell,Quesadilla,264.64,32
+145,Vaishnavi Bora,Biryani House,Hyderabadi Dum Biryani,434.05,36
+146,Oeshi Hayer,Mc Donalds,Quarter Pounder,269.7,27
+147,Warda Ratta,Spice Kitchen,Rogan Josh,63.06,31
+148,Manbir Ahluwalia,Noodle Paradise,Chow Mein,375.88,39
+149,Pavani Kanda,Subway,Veggie Sub,458.12,47
+150,Zarna Shetty,Taco Bell,Crunchy Taco,87.78,37
+151,Zaid Dara,Subway,Italian BMT,131.78,26
+152,Kiaan Shetty,Spice Kitchen,Paneer Curry,145.25,30
+153,Saanvi Thaman,Taj Mahal,Dal Makhani,175.22,36
+154,Sanaya Dutt,Biryani House,Chicken Biryani,261.64,57
+155,Shivani Lad,Mc Donalds,Big Mac,499.96,32
+156,Aradhana Verma,KFC,Chicken Bucket,401.55,51
+157,William Maharaj,Dominos,Pepperoni Pizza,477.33,22
+158,Faras Mangal,Dominos,Margherita Pizza,157.35,40
+159,Anita Nayak,Noodle Paradise,Ramen,303.79,23
+160,Faris Devi,Burger King,Spicy Burger,395.1,20
+161,Vihaan Rajagopal,Taco Bell,Crunchy Taco,400.01,20
+162,Tanish Bhatt,Biryani House,Chicken Biryani,310.41,29
+163,Nikita Narayanan,Taco Bell,Quesadilla,228.49,55
+164,Ojasvi Bhatia,KFC,Chicken Bucket,316.44,50
+165,Osha Ramachandran,KFC,Chicken Bucket,363.74,29
+166,Lajita Sood,Noodle Paradise,Ramen,408.3,46
+167,Indira Misra,Pasta Corner,Spaghetti Carbonara,206.24,37
+168,Oni Yohannan,Noodle Paradise,Pad Thai,81.03,51
+169,Vinaya Kanda,Taj Mahal,Paneer Tikka,432.31,41
+170,Rajata Sunder,Pizza Hut,Chicken Pizza,482.35,50
+171,Lopa Nayar,Burger King,Crispy Veg Burger,245.97,56
+172,Noah Sibal,Mc Donalds,McVeggie,327.16,44
+173,Avi Ramesh,Pasta Corner,Lasagna,259.19,56
+174,Fiyaz Sangha,Taco Bell,Burrito,195.04,25
+175,Triya Gopal,Pizza Hut,Paneer Pizza,446.73,25
+176,Abha Raghavan,Pasta Corner,Lasagna,306.43,52
+177,Siddharth Sha,Spice Kitchen,Paneer Curry,62.91,30
+178,Geetika Raghavan,Subway,Italian BMT,145.45,26
+179,Oviya Krishnan,Taj Mahal,Butter Chicken,446.14,54
+180,Upma Bahl,Biryani House,Chicken Biryani,282.48,22
+181,Inaya Kapur,Pizza Hut,Super Cheese Pizza,374.03,41
+182,Banjeet Balasubramanian,Mc Donalds,Quarter Pounder,360.77,51
+183,Ryan Bahri,Dragon Wok,Hakka Noodles,251.68,11
+184,William Date,Pizza Hut,Paneer Pizza,149.72,54
+185,Ishwar Kamdar,KFC,Zinger Burger,348.78,33
+186,Aahana Pillay,Burger King,Spicy Burger,241.48,57
+187,Ishwar Gade,Mc Donalds,McVeggie,208.31,39
+188,Hritik Bal,Biryani House,Vegetable Biryani,163.13,17
+189,Keya Ranganathan,Dragon Wok,Egg Noodles,192.0,57
+190,Faqid Kibe,Mc Donalds,Quarter Pounder,136.19,57
+191,Charvi Dara,Burger King,Spicy Burger,376.06,58
+192,Idika Walia,Mc Donalds,McVeggie,491.23,22
+193,Kamala Biswas,Biryani House,Mutton Biryani,212.4,29
+194,Advik Salvi,Dominos,Margherita Pizza,173.44,13
+195,Hitesh Sant,Mc Donalds,McVeggie,363.84,18
+196,Tripti Dua,Noodle Paradise,Chow Mein,96.16,10
+197,Patrick Vig,Taco Bell,Burrito,261.23,38
+198,Veda Shroff,Taj Mahal,Tandoori Chicken,484.47,26
+199,Amrita Naidu,Burger King,Whopper Burger,419.95,35
+200,Gabriel Mallick,Burger King,Whopper Burger,309.66,53
+201,Yagnesh Shetty,Dominos,Margherita Pizza,117.14,46
+202,Gayathri Balakrishnan,Biryani House,Chicken Biryani,497.26,17
+203,Ekta Gopal,Mc Donalds,McSpicy,322.84,60
+204,Simon Pant,Taco Bell,Soft Taco,399.06,34
+205,Harini Mammen,Burger King,Royal Burger,183.81,47
+206,Advaith Varughese,Spice Kitchen,Paneer Curry,305.88,13
+207,Frederick Khurana,Taco Bell,Crunchy Taco,476.42,23
+208,Vrinda Khosla,Noodle Paradise,Lo Mein,169.09,15
+209,Vritti Sem,Subway,Chicken Sub,128.22,14
+210,Girik Menon,Subway,Veggie Sub,233.83,54
+211,Nidhi Kohli,Taco Bell,Quesadilla,181.07,24
+212,Jyoti Solanki,Biryani House,Vegetable Biryani,366.34,39
+213,Pavani Narayanan,Pizza Hut,Super Cheese Pizza,465.76,60
+214,Sudiksha Madan,Pasta Corner,Penne Arrabbiata,241.31,44
+215,Zayan Kashyap,KFC,Chicken Strips,458.79,19
+216,Reyansh Mutti,Pizza Hut,Cheese Pizza,124.67,29
+217,Qasim Handa,Taco Bell,Burrito,247.62,39
+218,Veda Malhotra,Dragon Wok,Schezwan Rice,364.88,27
+219,Harish Hari,Mc Donalds,McSpicy,246.99,48
+220,Utkarsh Patel,Dominos,BBQ Chicken Pizza,380.54,48
+221,Chasmum Atwal,Biryani House,Chicken Biryani,91.1,53
+222,Anusha Bath,Taco Bell,Crunchy Taco,499.81,53
+223,Brinda Date,Biryani House,Chicken Biryani,393.4,21
+224,Harshil Arora,Burger King,Royal Burger,462.23,21
+225,Upasna Srinivas,Taco Bell,Quesadilla,335.65,41
+226,Harini Gour,Pizza Hut,Chicken Pizza,206.58,31
+227,Zayyan Sridhar,Taj Mahal,Paneer Tikka,435.98,31
+228,Dhruv Rattan,Spice Kitchen,Rogan Josh,179.7,35
+229,Ethan Bera,Pasta Corner,Spaghetti Carbonara,254.67,30
+230,Manthan Modi,Biryani House,Vegetable Biryani,102.16,59
+231,Yuvraj Dani,Spice Kitchen,Chana Masala,345.95,44
+232,Upkaar Virk,Burger King,Royal Burger,74.39,43
+233,Shravya Savant,Taj Mahal,Dal Makhani,331.43,58
+234,Pushti Mody,Dominos,Margherita Pizza,170.18,18
+235,Hardik Johal,Biryani House,Hyderabadi Dum Biryani,446.38,41
+236,Aishani Bumb,Pizza Hut,Cheese Pizza,487.92,48
+237,Wriddhish Ghose,Pasta Corner,Penne Arrabbiata,369.4,29
+238,Naksh Agate,Mc Donalds,Big Mac,298.51,15
+239,Shravya Singhal,KFC,Chicken Bucket,257.65,17
+240,Bachittar Kata,Noodle Paradise,Lo Mein,274.27,55
+241,Barkha Setty,Biryani House,Vegetable Biryani,236.97,40
+242,Vivaan Lalla,Burger King,Crispy Veg Burger,255.55,19
+243,Pavani Contractor,Spice Kitchen,Aloo Gobi,464.84,42
+244,Manthan Lata,Dragon Wok,Egg Noodles,438.81,27
+245,Ekbal Bhasin,Pasta Corner,Lasagna,202.94,60
+246,Damyanti Mani,Mc Donalds,McVeggie,419.25,28
+247,Jeet Sidhu,Dragon Wok,Schezwan Rice,426.86,47
+248,Neha Magar,Noodle Paradise,Chow Mein,439.37,38
+249,Raksha Buch,Mc Donalds,McSpicy,205.31,45
+250,Rachana Naidu,Pasta Corner,Lasagna,254.91,30
+251,Atharv Chand,KFC,Chicken Strips,307.31,24
+252,Ansh Luthra,Pasta Corner,Lasagna,69.64,57
+253,Parth Singhal,Burger King,Royal Burger,223.74,52
+254,Arunima Golla,Pasta Corner,Penne Arrabbiata,272.9,12
+255,Vyanjana Chand,Subway,Turkey Sub,441.37,38
+256,Ijaya Rege,Pizza Hut,Chicken Pizza,56.91,19
+257,Ekani Cheema,Spice Kitchen,Aloo Gobi,83.67,60
+258,Forum Sabharwal,Biryani House,Vegetable Biryani,330.47,35
+259,Bhavya Rattan,Noodle Paradise,Ramen,433.29,53
+260,Suhani Chakrabarti,Mc Donalds,McSpicy,479.36,50
+261,Zayyan Naik,Dragon Wok,Hakka Noodles,442.57,12
+262,Netra Varkey,Taco Bell,Crunchy Taco,155.65,53
+263,Turvi Sachdev,Biryani House,Mutton Biryani,386.04,37
+264,Raghav Vasa,Pizza Hut,Cheese Pizza,249.66,54
+265,Wishi Sathe,Biryani House,Chicken Biryani,70.7,60
+266,Samar Loke,Dominos,Veggie Pizza,211.31,37
+267,Bhavna Sarma,Subway,Chicken Sub,289.02,46
+268,Jairaj Balakrishnan,Noodle Paradise,Lo Mein,126.49,15
+269,Nathan Mukhopadhyay,Taco Bell,Quesadilla,328.87,25
+270,Nikita Chander,Burger King,Crispy Veg Burger,154.48,50
+271,Ishaan Shenoy,Biryani House,Hyderabadi Dum Biryani,164.9,10
+272,Mitesh Tara,Pasta Corner,Lasagna,455.54,53
+273,Yashodhara Mahajan,Mc Donalds,Quarter Pounder,83.24,32
+274,Vasudha Sodhi,Taco Bell,Burrito,337.52,37
+275,Tanmayi Dhillon,Dragon Wok,Schezwan Rice,255.58,29
+276,Rayaan Trivedi,KFC,Chicken Wings,434.0,16
+277,Ekaraj Majumdar,KFC,Chicken Wings,307.37,46
+278,Harini Tripathi,Biryani House,Vegetable Biryani,59.87,52
+279,Aarnav Mandal,Spice Kitchen,Paneer Curry,53.64,53
+280,Vrishti Dixit,Pasta Corner,Spaghetti Carbonara,459.78,57
+281,Veda Pai,Burger King,Spicy Burger,399.08,24
+282,Krishna Shah,Taco Bell,Burrito,148.55,22
+283,Ranbir Khare,Taco Bell,Burrito,354.99,56
+284,Vivaan Roy,Pasta Corner,Penne Arrabbiata,332.71,50
+285,Eesha Solanki,Noodle Paradise,Ramen,189.02,38
+286,Libni Doshi,Dominos,Veggie Pizza,379.56,15
+287,Balhaar Date,Biryani House,Vegetable Biryani,386.37,21
+288,Harish Sarraf,KFC,Chicken Strips,403.93,33
+289,Tanmayi Aurora,Mc Donalds,McVeggie,423.71,26
+290,Nimrat Dubey,Burger King,Spicy Burger,385.95,31
+291,Upasna Lanka,Pasta Corner,Spaghetti Carbonara,260.75,14
+292,Mitali Buch,Subway,Chicken Sub,437.06,56
+293,Lajita Nadig,Noodle Paradise,Chow Mein,485.27,45
+294,Balendra Biswas,Taj Mahal,Paneer Tikka,405.81,10
+295,Bhavna Karan,Biryani House,Chicken Biryani,254.65,53
+296,Radha Chaudhari,Dragon Wok,Schezwan Rice,313.05,50
+297,Sachi Ganesan,Taj Mahal,Paneer Tikka,353.68,40
+298,Ayush Batra,Dominos,Veggie Pizza,461.87,24
+299,Daksh Memon,Noodle Paradise,Ramen,335.93,39
+300,Kavya Sankar,Dragon Wok,Schezwan Rice,342.16,17
+301,Yash Wali,Subway,Veggie Sub,475.82,29
+302,Pranit Garde,Burger King,Whopper Burger,93.74,44
+303,Farhan Raja,Subway,Italian BMT,254.14,52
+304,Widisha Dhar,Dragon Wok,Hakka Noodles,314.3,56
+305,Triya Kumar,Subway,Italian BMT,344.71,41
+306,Aadhya Andra,Taco Bell,Quesadilla,472.57,27
+307,Bhavna Dugar,Dominos,Veggie Pizza,147.77,38
+308,Riya Pai,KFC,Zinger Burger,94.71,53
+309,Panini Krishna,Taj Mahal,Butter Chicken,77.25,27
+310,Chasmum Issac,KFC,Chicken Bucket,477.05,39
+311,Vasudha Chhabra,Pizza Hut,Super Cheese Pizza,338.77,48
+312,Lakshmi Parmer,Dominos,Pepperoni Pizza,404.06,25
+313,Chakrika Bains,Subway,Chicken Sub,80.87,58
+314,Anvi Anand,Mc Donalds,Quarter Pounder,313.87,24
+315,Watika Mangat,Taj Mahal,Tandoori Chicken,404.89,48
+316,Indira Kanda,Dominos,Veggie Pizza,436.28,19
+317,Zashil Devan,Subway,Turkey Sub,409.33,17
+318,Balveer More,Noodle Paradise,Ramen,109.31,32
+319,Bahadurjit Patla,Pasta Corner,Penne Arrabbiata,314.98,11
+320,Gautam Merchant,Subway,Turkey Sub,73.58,57
+321,Ojasvi Gill,Spice Kitchen,Chana Masala,385.55,40
+322,Kevin Zacharia,Burger King,Spicy Burger,280.96,16
+323,Yachana Mahajan,Burger King,Crispy Veg Burger,475.44,12
+324,Aarini Subramaniam,Dragon Wok,Schezwan Rice,256.12,11
+325,Hamsini Contractor,Dominos,BBQ Chicken Pizza,431.28,37
+326,Faqid Dhaliwal,Noodle Paradise,Ramen,270.62,38
+327,Mekhala Pau,Pizza Hut,Cheese Pizza,194.95,19
+328,Megha Atwal,Pizza Hut,Super Cheese Pizza,173.76,50
+329,Jatin Sha,Taco Bell,Burrito,221.41,48
+330,Adweta Raj,Mc Donalds,McVeggie,254.17,48
+331,Hritik Kaur,Spice Kitchen,Chana Masala,406.89,17
+332,Aryan Narang,Noodle Paradise,Lo Mein,243.53,24
+333,Dev Shetty,Spice Kitchen,Paneer Curry,422.34,35
+334,Nilima Dada,Spice Kitchen,Chana Masala,190.65,30
+335,Chakradev Barad,Noodle Paradise,Pad Thai,218.44,19
+336,Waida D’Alia,Noodle Paradise,Chow Mein,80.21,15
+337,Wahab Yogi,Pizza Hut,Chicken Pizza,93.45,57
+338,Lipika Setty,Taj Mahal,Tandoori Chicken,300.37,47
+339,Oni Dubey,Mc Donalds,McVeggie,351.51,36
+340,Hardik Suri,Taj Mahal,Dal Makhani,440.64,56
+341,Ati Bali,Dominos,Veggie Pizza,320.18,32
+342,Teerth Sawhney,Pizza Hut,Super Cheese Pizza,119.63,40
+343,Warinder Patil,KFC,Chicken Bucket,207.55,45
+344,Jhalak Parmer,Taj Mahal,Paneer Tikka,393.17,46
+345,Mitali Majumdar,KFC,Chicken Wings,430.32,59
+346,Jason Sha,Taco Bell,Crunchy Taco,324.05,52
+347,Simon Bail,Dragon Wok,Schezwan Rice,63.03,27
+348,Gauri Kohli,Dragon Wok,Schezwan Rice,464.69,32
+349,Samesh Biswas,Dominos,Margherita Pizza,441.44,46
+350,Tarak Kaul,Noodle Paradise,Chow Mein,81.31,57
+351,Manbir Agate,Noodle Paradise,Ramen,91.29,43
+352,Maanav De,KFC,Chicken Wings,238.92,31
+353,Owen Choudhary,Subway,Turkey Sub,190.24,30
+354,Karan Aurora,Pasta Corner,Spaghetti Carbonara,447.5,19
+355,Wazir Naik,Subway,Veggie Sub,353.29,27
+356,Owen Lanka,Burger King,Royal Burger,268.55,38
+357,Jonathan Sama,Spice Kitchen,Paneer Curry,147.01,42
+358,Devansh Soni,Pizza Hut,Paneer Pizza,243.46,28
+359,Janaki Varghese,Noodle Paradise,Chow Mein,287.12,29
+360,Siya Thakur,Dominos,Margherita Pizza,227.87,48
+361,Caleb Verma,Dominos,Pepperoni Pizza,141.99,23
+362,Tara Balasubramanian,Pasta Corner,Penne Arrabbiata,393.87,28
+363,Varenya Ratti,Taj Mahal,Paneer Tikka,53.48,57
+364,Hritik Swaminathan,Spice Kitchen,Aloo Gobi,108.13,44
+365,Ethan Buch,Dragon Wok,Egg Noodles,275.12,52
+366,Manbir Bhatti,Pasta Corner,Fettuccine Alfredo,82.43,57
+367,Anvi Nair,Dominos,BBQ Chicken Pizza,58.43,14
+368,Chaitaly Setty,Taj Mahal,Dal Makhani,308.03,55
+369,Hardik Contractor,Noodle Paradise,Chow Mein,180.28,35
+370,Qushi Seth,Dominos,Veggie Pizza,127.34,49
+371,Odika Nori,Burger King,Spicy Burger,89.66,16
+372,Mohini Sagar,KFC,Chicken Wings,314.99,43
+373,Dhriti Sane,Pizza Hut,Chicken Pizza,441.74,57
+374,Aadhya Prasad,Taj Mahal,Tandoori Chicken,199.88,20
+375,Urvi Bhavsar,Pizza Hut,Cheese Pizza,288.77,22
+376,Frederick Chander,Pasta Corner,Fettuccine Alfredo,207.99,51
+377,Gopal Pradhan,Subway,Chicken Sub,96.26,26
+378,Darpan Narayan,KFC,Chicken Strips,321.08,58
+379,Nirja Pandya,Pasta Corner,Spaghetti Carbonara,129.72,59
+380,Charan Mani,Noodle Paradise,Chow Mein,258.78,46
+381,Indira Chawla,Pasta Corner,Lasagna,356.51,46
+382,Mohammed Subramaniam,Noodle Paradise,Pad Thai,438.91,50
+383,Hritik Palla,Taj Mahal,Tandoori Chicken,247.89,40
+384,Ishwar Mallick,Burger King,Spicy Burger,408.35,47
+385,Pushti Bal,Dominos,Veggie Pizza,278.3,29
+386,Ayush Gole,Burger King,Royal Burger,66.92,33
+387,Dayamai Nori,Biryani House,Chicken Biryani,340.1,15
+388,Abeer Golla,Taco Bell,Quesadilla,258.22,45
+389,Nandini Boase,Pasta Corner,Spaghetti Carbonara,252.38,46
+390,Azaan Chand,Noodle Paradise,Lo Mein,194.69,40
+391,Krisha Saini,Mc Donalds,Quarter Pounder,480.98,38
+392,Harita Dugar,Pizza Hut,Paneer Pizza,492.07,15
+393,Devika Nair,Mc Donalds,Quarter Pounder,67.61,55
+394,Charles Dugal,Burger King,Royal Burger,285.83,49
+395,Chandran Bumb,Subway,Turkey Sub,217.78,28
+396,Saanvi Samra,Spice Kitchen,Rogan Josh,398.51,53
+397,Riya Sachdeva,Taco Bell,Crunchy Taco,405.15,51
+398,Tanveer Vala,Taj Mahal,Paneer Tikka,198.36,45
+399,Hemani Sani,Noodle Paradise,Chow Mein,177.87,56
+400,Bhanumati Sur,Noodle Paradise,Lo Mein,200.01,47
+401,Brett Herbert,Noodle Paradise,Lo Mein,462.54,29
+402,Andrea Robinson,Noodle Paradise,Chow Mein,108.03,55
+403,Sarah Martin,Pizza Hut,Paneer Pizza,301.51,51
+404,Diane Miller,Pasta Corner,Fettuccine Alfredo,415.93,52
+405,Maureen O'Neill-Stephenson,Dragon Wok,Fried Rice,340.71,37
+406,Ms Emily Palmer,Mc Donalds,McVeggie,58.2,29
+407,Geoffrey Knight-Lee,Subway,Chicken Sub,203.78,59
+408,Dr Alan Frost,Burger King,Crispy Veg Burger,151.94,18
+409,Michael Williams-Nicholls,Subway,Veggie Sub,183.11,60
+410,Sally Allen,Pizza Hut,Cheese Pizza,347.87,59
+411,Reece Ellis,Taco Bell,Soft Taco,318.76,19
+412,Miss Amy Gibbons,Subway,Chicken Sub,424.11,59
+413,Ms Rosie Nicholls,Taco Bell,Soft Taco,374.53,12
+414,Jeremy Nicholson-Watts,Spice Kitchen,Paneer Curry,354.36,25
+415,Marion Fox,Burger King,Spicy Burger,388.58,60
+416,Simon Byrne,Burger King,Crispy Veg Burger,290.31,29
+417,Judith Morton-Marsh,Pasta Corner,Lasagna,456.79,22
+418,Kathryn Parkinson,Taj Mahal,Dal Makhani,257.76,28
+419,Conor O'Connor,Pasta Corner,Lasagna,276.31,36
+420,Dr Clive Wood,Subway,Chicken Sub,410.57,18
+421,Mr Terence Webb,Biryani House,Chicken Biryani,338.53,33
+422,Sandra Coleman-Gould,Mc Donalds,Big Mac,370.13,43
+423,Mr Craig Watson,Pizza Hut,Paneer Pizza,87.74,20
+424,Louis Hall,Biryani House,Hyderabadi Dum Biryani,457.39,19
+425,Gregory Patterson,Spice Kitchen,Chana Masala,475.89,24
+426,Danny Woods,Burger King,Spicy Burger,468.71,36
+427,Shaun Taylor,Dominos,BBQ Chicken Pizza,275.9,25
+428,Charles Hayes,Spice Kitchen,Chana Masala,218.71,11
+429,Marie Williams,Taj Mahal,Paneer Tikka,427.63,51
+430,Valerie Wright-Parsons,Taj Mahal,Tandoori Chicken,111.92,28
+431,Denise Hall,Burger King,Crispy Veg Burger,391.48,40
+432,Jacqueline Connolly,Burger King,Whopper Burger,457.64,11
+433,Lisa Berry-Stewart,Biryani House,Mutton Biryani,425.73,45
+434,Cheryl Wright,Dragon Wok,Hakka Noodles,100.03,28
+435,Dr Leah Naylor,KFC,Zinger Burger,104.83,25
+436,Mr Eric Walker,Spice Kitchen,Rogan Josh,78.26,41
+437,Victor Kay,Taco Bell,Crunchy Taco,334.38,46
+438,Frank Knight,KFC,Chicken Strips,181.07,10
+439,Kimberley Webb,Taco Bell,Burrito,158.25,36
+440,Dr Luke Pollard,Subway,Veggie Sub,285.57,33
+441,Nicola Smith,Pizza Hut,Cheese Pizza,225.7,40
+442,Gerald Barry,Dominos,BBQ Chicken Pizza,491.47,26
+443,Jason Evans,Dragon Wok,Fried Rice,210.69,14
+444,Georgina Hanson-Haynes,Taj Mahal,Tandoori Chicken,379.82,50
+445,Richard Pearson,Pizza Hut,Paneer Pizza,110.03,32
+446,Mohammed Collins,Mc Donalds,McVeggie,416.08,21
+447,Ashleigh Davies,Pasta Corner,Lasagna,491.37,40
+448,Hayley Wood-Moss,Noodle Paradise,Lo Mein,415.17,14
+449,Keith Shepherd,Dragon Wok,Hakka Noodles,66.64,22
+450,Mohamed Dale,Dominos,Margherita Pizza,448.61,30
+451,Miss Jill Harrison,Biryani House,Hyderabadi Dum Biryani,495.11,44
+452,Ms Hilary Walters,Burger King,Spicy Burger,66.48,51
+453,Denise Moore,KFC,Zinger Burger,210.64,59
+454,Roger Bradley,Dominos,Veggie Pizza,172.95,33
+455,Bruce Norton,Spice Kitchen,Rogan Josh,384.49,34
+456,Glenn Walker-Green,Taj Mahal,Tandoori Chicken,273.29,41
+457,Phillip Buckley,Taj Mahal,Butter Chicken,410.52,56
+458,Paula Herbert,Spice Kitchen,Chana Masala,243.77,21
+459,Kerry May,Mc Donalds,McVeggie,194.55,15
+460,Lewis Wilson,Taj Mahal,Butter Chicken,187.92,48
+461,Ann Hamilton,Dragon Wok,Hakka Noodles,124.99,38
+462,Mr Howard Welch,Taj Mahal,Dal Makhani,69.06,32
+463,Mr Mohamed Holt,Taco Bell,Quesadilla,173.55,60
+464,Mr Joel Patel,Dominos,Pepperoni Pizza,352.03,35
+465,Katie Holden,Taj Mahal,Tandoori Chicken,478.76,19
+466,Mr Gerald Thomas,Taco Bell,Quesadilla,65.66,14
+467,Ms Melissa Morrison,KFC,Zinger Burger,212.97,46
+468,Dr Connor Wilkinson,Dominos,Margherita Pizza,355.58,33
+469,Marie Cooke-O'Connor,Taj Mahal,Dal Makhani,393.39,46
+470,Mitchell Robinson,Subway,Turkey Sub,229.12,51
+471,Patrick Marsh,Biryani House,Mutton Biryani,482.23,11
+472,Arthur Fletcher,Dragon Wok,Egg Noodles,274.57,34
+473,Caroline Roberts,Mc Donalds,Big Mac,167.8,26
+474,Hayley Barnett,Dragon Wok,Hakka Noodles,146.56,49
+475,Christian Naylor,Biryani House,Hyderabadi Dum Biryani,140.08,18
+476,Jayne Barton,Pizza Hut,Chicken Pizza,127.7,55
+477,Patricia Miller-Sharpe,Burger King,Whopper Burger,414.73,30
+478,Liam Holden,Noodle Paradise,Pad Thai,369.29,45
+479,Natalie Warren,Mc Donalds,McVeggie,451.1,20
+480,Mrs Lynne Manning,Dragon Wok,Egg Noodles,407.16,42
+481,Christian Smith,KFC,Chicken Bucket,493.31,60
+482,Joanna Wilson,Subway,Chicken Sub,405.67,11
+483,Mrs Gail Goodwin,Taj Mahal,Butter Chicken,260.33,45
+484,Diane Thomas,Subway,Veggie Sub,79.59,35
+485,Dr Damien Holden,Dragon Wok,Hakka Noodles,286.56,59
+486,Dr Francis Richards,Spice Kitchen,Chana Masala,106.4,30
+487,Julie Smith,Noodle Paradise,Ramen,252.49,53
+488,Mr Henry Singh,Mc Donalds,McVeggie,107.75,59
+489,Arthur Davison,Mc Donalds,Quarter Pounder,395.5,18
+490,Dr Terence Hodgson,Spice Kitchen,Chana Masala,424.13,43
+491,Alice Burton,Subway,Turkey Sub,124.1,30
+492,Dr Ryan Griffiths,Dragon Wok,Egg Noodles,205.71,43
+493,Joel Wilkinson,Biryani House,Chicken Biryani,162.77,50
+494,Douglas Allen,Mc Donalds,McVeggie,106.33,29
+495,Steven Harris-Winter,Taco Bell,Crunchy Taco,276.16,20
+496,Ms Jemma Fletcher,Taco Bell,Soft Taco,127.04,49
+497,Albert Cunningham,Dragon Wok,Schezwan Rice,429.14,46
+498,Mrs Marian Dunn,Dominos,Pepperoni Pizza,86.55,51
+499,Mr Gordon Wong,Pasta Corner,Fettuccine Alfredo,343.01,59
+500,Ellie Cooper,Taco Bell,Quesadilla,328.15,11
+501,Miss Julie Evans,Burger King,Spicy Burger,338.86,29
+502,Debra Smith,Burger King,Crispy Veg Burger,412.11,53
+503,Terry Webb,Spice Kitchen,Paneer Curry,254.09,54
+504,Mohammed Browne,Dominos,Margherita Pizza,247.82,40
+505,Miss Sian Jarvis,Burger King,Crispy Veg Burger,203.09,19
+506,Dr Damien Jones,Taj Mahal,Butter Chicken,380.39,32
+507,Mary Collins,Spice Kitchen,Aloo Gobi,392.3,42
+508,Dr Jack Harris,Mc Donalds,Big Mac,193.6,39
+509,Caroline Young,Pizza Hut,Paneer Pizza,252.32,19
+510,Miss Molly Matthews,Pizza Hut,Cheese Pizza,180.6,34
+511,Dr Malcolm Sims,Taco Bell,Quesadilla,161.72,20
+512,Neil Hussain,Taj Mahal,Butter Chicken,135.43,20
+513,Mr Toby Ross,Burger King,Royal Burger,274.44,29
+514,Sheila Williams,Burger King,Whopper Burger,90.52,35
+515,Dr Lorraine Cook,Mc Donalds,McSpicy,485.01,23
+516,Rachael Marshall,Taco Bell,Burrito,71.9,28
+517,Miss Patricia Wood,Burger King,Royal Burger,178.59,10
+518,Alexandra Foster,Pizza Hut,Chicken Pizza,110.27,26
+519,Mr Abdul Harris,Dragon Wok,Schezwan Rice,393.74,33
+520,Hannah Mills,Dominos,BBQ Chicken Pizza,73.02,45
+521,Natasha Williams-Edwards,KFC,Zinger Burger,298.95,14
+522,Beth Williams,Spice Kitchen,Rogan Josh,393.98,27
+523,Michael Wood,Taco Bell,Crunchy Taco,107.9,16
+524,Dr Valerie Dawson,Spice Kitchen,Paneer Curry,407.7,31
+525,Mr Ian Davies,Mc Donalds,McVeggie,389.73,22
+526,Miss Molly Roberts,Taco Bell,Quesadilla,275.04,12
+527,Jason Watson,Dominos,Margherita Pizza,371.12,40
+528,Katy Davies,Mc Donalds,McSpicy,117.02,42
+529,Andrew Clarke,Subway,Turkey Sub,469.12,30
+530,Josephine Owen,Subway,Italian BMT,495.78,57
+531,Mrs Sylvia Dyer,Biryani House,Vegetable Biryani,278.29,42
+532,Jeffrey Patel,Mc Donalds,McSpicy,368.93,29
+533,Mr Mitchell Khan,Burger King,Whopper Burger,215.76,53
+534,Dr Sally Brooks,Pizza Hut,Chicken Pizza,312.67,60
+535,Amy Payne,Dragon Wok,Fried Rice,318.61,26
+536,Rachael Weston,Noodle Paradise,Lo Mein,374.63,47
+537,Darren Smith,Burger King,Crispy Veg Burger,285.9,56
+538,Lindsey Williams-Turner,Taco Bell,Quesadilla,116.5,53
+539,Rita Bell-Hughes,KFC,Chicken Bucket,307.66,54
+540,Mary Davis,Pizza Hut,Super Cheese Pizza,58.52,30
+541,Nicholas Sutton,Spice Kitchen,Aloo Gobi,235.83,23
+542,Samuel Barker,Spice Kitchen,Rogan Josh,442.77,57
+543,Dr Brett Ward,Dragon Wok,Fried Rice,367.6,43
+544,Harriet Freeman,KFC,Zinger Burger,499.16,40
+545,Tracy Ellis-Bennett,Mc Donalds,McSpicy,191.19,21
+546,Nicholas James,Burger King,Spicy Burger,295.82,53
+547,Nathan O'Neill,Pasta Corner,Fettuccine Alfredo,324.53,22
+548,Diane Smith,KFC,Zinger Burger,301.14,24
+549,James Evans,Biryani House,Vegetable Biryani,367.21,54
+550,Jeffrey Jones,Dragon Wok,Hakka Noodles,192.67,32
+551,Gary Blackburn,Mc Donalds,McVeggie,179.51,46
+552,Charlotte Gordon,Noodle Paradise,Chow Mein,453.09,35
+553,Shane Carey-Hilton,Taj Mahal,Tandoori Chicken,180.7,28
+554,Mr Philip Page,Dragon Wok,Fried Rice,205.86,38
+555,Alan Power,Noodle Paradise,Pad Thai,386.3,23
+556,Garry Ward,KFC,Zinger Burger,469.86,54
+557,Mr Gary Williams,Biryani House,Mutton Biryani,99.15,57
+558,Mr Benjamin Joyce,Taco Bell,Soft Taco,159.11,52
+559,Jennifer Wade-Hudson,Mc Donalds,Quarter Pounder,337.08,13
+560,Debra May,Pizza Hut,Chicken Pizza,198.63,40
+561,Patrick Baker,Pizza Hut,Super Cheese Pizza,52.33,45
+562,Sandra Woods-Walton,Subway,Italian BMT,343.8,40
+563,Aimee Stokes,Burger King,Crispy Veg Burger,390.16,28
+564,Jordan Kerr,Taj Mahal,Butter Chicken,340.65,59
+565,Naomi Howarth,Pizza Hut,Super Cheese Pizza,290.82,56
+566,Chloe Slater,Dominos,Margherita Pizza,238.05,21
+567,Josh Haynes-Bennett,Dominos,BBQ Chicken Pizza,404.58,21
+568,Lauren Francis,Dragon Wok,Schezwan Rice,444.53,10
+569,Gerard Pritchard,Biryani House,Chicken Biryani,467.8,31
+570,Jemma Fletcher,Biryani House,Hyderabadi Dum Biryani,495.09,44
+571,Stephen Stephenson,Mc Donalds,McSpicy,450.17,18
+572,Abdul Harris,Mc Donalds,McSpicy,172.78,17
+573,Jodie Smith-Gough,Taj Mahal,Tandoori Chicken,379.0,51
+574,Miss Carole Ford,Biryani House,Mutton Biryani,56.34,31
+575,Tracy Williams,Pasta Corner,Fettuccine Alfredo,305.5,58
+576,Dale Martin,KFC,Chicken Strips,324.93,50
+577,Steven Webster,Spice Kitchen,Rogan Josh,281.88,15
+578,Sam Hunter-Taylor,Spice Kitchen,Chana Masala,133.15,18
+579,Ms Sheila Lewis,Burger King,Spicy Burger,471.12,10
+580,Katherine Smith,Biryani House,Hyderabadi Dum Biryani,155.98,58
+581,Wendy Power,Biryani House,Vegetable Biryani,185.88,56
+582,Sophie Bentley,Taco Bell,Crunchy Taco,167.7,33
+583,Dr Catherine Hunt,Dragon Wok,Egg Noodles,77.96,17
+584,Maureen McDonald,Burger King,Spicy Burger,121.87,53
+585,Charles Barrett-Walsh,Mc Donalds,McVeggie,360.63,50
+586,Donald Morley,Biryani House,Vegetable Biryani,326.58,24
+587,Rachael Brown-Harding,Subway,Italian BMT,118.93,57
+588,Bernard Morgan,Taco Bell,Burrito,237.13,45
+589,Eileen Ingram,Burger King,Crispy Veg Burger,392.84,53
+590,Jean Hughes,Pasta Corner,Spaghetti Carbonara,286.48,43
+591,Dr Gareth Wilkinson,Dragon Wok,Schezwan Rice,85.15,46
+592,Mr Robin Macdonald,Pizza Hut,Cheese Pizza,422.95,42
+593,Shannon Miller-Owen,KFC,Chicken Strips,124.04,43
+594,Mrs Ruth Moore,Burger King,Whopper Burger,356.13,55
+595,Miss Deborah Cooper,Taco Bell,Quesadilla,90.92,42
+596,Henry White,Burger King,Whopper Burger,254.04,42
+597,Maurice Talbot,Spice Kitchen,Rogan Josh,303.76,45
+598,Sophie North,Burger King,Spicy Burger,375.48,35
+599,Dr Ricky Singh,Biryani House,Chicken Biryani,385.61,47
+600,Mr Nigel Foster,Pizza Hut,Cheese Pizza,240.66,54
+601,Mrs Gemma Thomas,Pizza Hut,Cheese Pizza,470.56,14
+602,Mohammed Roberts-Reynolds,Burger King,Whopper Burger,179.19,21
+603,Katy Lawrence,Pasta Corner,Penne Arrabbiata,394.62,56
+604,Maureen Begum,Noodle Paradise,Chow Mein,218.51,34
+605,Ms Lynn Scott,Burger King,Royal Burger,219.04,53
+606,Kieran Wright-O'Sullivan,Noodle Paradise,Lo Mein,344.09,32
+607,Vincent Jones,Pizza Hut,Super Cheese Pizza,496.78,35
+608,Kieran Jones,Mc Donalds,Quarter Pounder,377.54,24
+609,Sheila Fry,Dominos,Pepperoni Pizza,490.32,39
+610,Lynne Jackson,Noodle Paradise,Chow Mein,289.37,24
+611,Mr Joel Jones,KFC,Chicken Wings,205.77,27
+612,Gregory Whitehead,KFC,Chicken Bucket,64.5,52
+613,Richard Jackson-Thompson,Spice Kitchen,Chana Masala,158.3,14
+614,Dylan Russell,Pizza Hut,Cheese Pizza,250.9,53
+615,Ms Bethan Smith,Dragon Wok,Fried Rice,160.13,12
+616,Bruce Griffiths,Spice Kitchen,Rogan Josh,155.45,23
+617,Beverley Sinclair,Pasta Corner,Spaghetti Carbonara,113.06,28
+618,Chelsea Marshall,KFC,Zinger Burger,309.86,59
+619,Dr Emma Cole,Noodle Paradise,Pad Thai,156.61,19
+620,Stuart Moore,Noodle Paradise,Lo Mein,236.1,27
+621,Shane Carey,Dominos,Margherita Pizza,331.7,37
+622,Ms Fiona Walker,Mc Donalds,McSpicy,71.1,32
+623,Miss Annette Clements,Noodle Paradise,Chow Mein,403.61,30
+624,Maurice Graham-Faulkner,Dragon Wok,Hakka Noodles,233.72,29
+625,Cameron Lucas,Spice Kitchen,Aloo Gobi,389.49,40
+626,Olivia Doherty,KFC,Chicken Strips,185.33,55
+627,Leanne Vaughan,Subway,Italian BMT,461.63,45
+628,Stuart Marshall-Jones,Spice Kitchen,Rogan Josh,300.78,18
+629,Clive Moore,Spice Kitchen,Aloo Gobi,164.75,31
+630,Dr Gareth Blake,Noodle Paradise,Ramen,465.0,33
+631,Abdul Palmer,Pizza Hut,Super Cheese Pizza,73.19,34
+632,Miss Anne Harris,Noodle Paradise,Ramen,443.13,22
+633,Hannah Ward-Williams,Pasta Corner,Penne Arrabbiata,265.73,31
+634,Marilyn Stevens-Finch,Biryani House,Chicken Biryani,145.31,22
+635,Heather Booth-Khan,Dragon Wok,Fried Rice,386.1,58
+636,Billy Smith,Burger King,Crispy Veg Burger,363.03,55
+637,Hollie Howe,KFC,Chicken Wings,461.81,45
+638,Frances Barnes,Taj Mahal,Butter Chicken,221.3,44
+639,Chelsea Sheppard,Noodle Paradise,Pad Thai,188.79,33
+640,Adam Davies,Mc Donalds,McSpicy,259.7,56
+641,Sarah Arnold,Burger King,Spicy Burger,461.45,33
+642,Yvonne Riley,Taj Mahal,Dal Makhani,70.57,24
+643,Shane Horton,Dragon Wok,Egg Noodles,57.3,45
+644,Dr Shaun Hussain,Taco Bell,Quesadilla,182.84,22
+645,Tracey Riley,Taj Mahal,Tandoori Chicken,220.93,25
+646,Brenda Hicks,Burger King,Spicy Burger,165.8,41
+647,Mr Nicholas Fletcher,Dragon Wok,Hakka Noodles,257.37,56
+648,Mr Jack Turner,Pasta Corner,Fettuccine Alfredo,126.17,56
+649,Dr Lucy Cross,Mc Donalds,McSpicy,132.82,44
+650,Dr Jack Bailey,Noodle Paradise,Ramen,285.77,14
+651,Josh Dean,Noodle Paradise,Ramen,393.95,36
+652,Miss Carole Scott,Subway,Chicken Sub,80.59,19
+653,Marcus Hughes,Dominos,Margherita Pizza,277.58,33
+654,Tina Jones,Dominos,BBQ Chicken Pizza,346.68,11
+655,Victoria Butcher,Dominos,BBQ Chicken Pizza,55.33,43
+656,Bernard Brooks-Edwards,Dragon Wok,Schezwan Rice,291.08,28
+657,Judith James,Dominos,BBQ Chicken Pizza,412.78,21
+658,Tom Reed,Pizza Hut,Cheese Pizza,285.97,25
+659,Irene Davis,KFC,Zinger Burger,416.85,27
+660,Dr Molly Mills,Pasta Corner,Lasagna,85.56,35
+661,Mrs Lucy Robinson,Burger King,Crispy Veg Burger,495.6,24
+662,Shaun Hudson,Biryani House,Chicken Biryani,344.18,51
+663,Danielle Cooper,Pasta Corner,Spaghetti Carbonara,92.08,34
+664,Aaron Watson,Spice Kitchen,Rogan Josh,75.25,10
+665,Eileen Wood-Brown,Dragon Wok,Egg Noodles,87.21,37
+666,Jeremy Marshall,Noodle Paradise,Pad Thai,304.64,16
+667,Charlene Iqbal,Mc Donalds,Big Mac,153.39,54
+668,Tracy Stevenson-Kerr,Taco Bell,Quesadilla,171.99,14
+669,Dean Marshall-Dawson,Noodle Paradise,Pad Thai,454.69,46
+670,Sheila Flynn-Lloyd,Noodle Paradise,Ramen,130.71,30
+671,Marilyn Gould,Dominos,Margherita Pizza,314.17,58
+672,Leon Patel-Campbell,Dragon Wok,Hakka Noodles,467.99,29
+673,Max Roberts,Subway,Chicken Sub,305.01,34
+674,Mr Harry Davies,Noodle Paradise,Pad Thai,222.73,57
+675,Simon Carey,Subway,Veggie Sub,275.36,32
+676,Jay Evans,Dominos,Pepperoni Pizza,246.69,14
+677,William Long,Taj Mahal,Dal Makhani,486.01,30
+678,Howard Howell,Dominos,Veggie Pizza,402.6,38
+679,Keith O'Brien,Burger King,Crispy Veg Burger,210.12,34
+680,Dr Kevin Davies,Spice Kitchen,Aloo Gobi,355.86,52
+681,Iain Jones-Sutton,Spice Kitchen,Chana Masala,397.48,28
+682,Matthew Price,Pasta Corner,Penne Arrabbiata,370.9,15
+683,Gavin Murphy,Biryani House,Mutton Biryani,221.0,60
+684,Heather Hall,Noodle Paradise,Lo Mein,382.84,30
+685,Dr Mark Frost,Taj Mahal,Paneer Tikka,91.18,29
+686,Mr Raymond Whitehead,Burger King,Spicy Burger,392.61,16
+687,Kirsty Ward,Subway,Veggie Sub,134.33,38
+688,Kayleigh Turner,Mc Donalds,McSpicy,96.48,15
+689,Marie Higgins,Taj Mahal,Paneer Tikka,318.62,60
+690,Ms Mary Miller,Taj Mahal,Dal Makhani,55.55,36
+691,Brandon Robson-Patel,Spice Kitchen,Chana Masala,376.18,45
+692,Dr Paige Patel,KFC,Chicken Strips,358.39,20
+693,Mohamed Gardiner,Subway,Turkey Sub,185.51,41
+694,Jill Taylor,Subway,Veggie Sub,125.24,27
+695,Louise Turner,Spice Kitchen,Paneer Curry,267.9,14
+696,Ms Jade Lee,Taj Mahal,Butter Chicken,474.9,56
+697,Mr Kieran Hall,Noodle Paradise,Chow Mein,317.21,22
+698,Abdul Douglas-Lamb,Burger King,Whopper Burger,110.97,10
+699,Catherine Hall,Spice Kitchen,Paneer Curry,428.73,34
+700,Valerie Barrett,Pasta Corner,Fettuccine Alfredo,248.1,37
+701,William Higgins-Knowles,Noodle Paradise,Lo Mein,185.2,48
+702,John Smith,Dragon Wok,Egg Noodles,265.55,21
+703,Carol Wright,Spice Kitchen,Paneer Curry,181.15,54
+704,Clifford Davies,Noodle Paradise,Chow Mein,485.49,60
+705,Mr Adrian Cox,KFC,Zinger Burger,219.22,60
+706,Dr Megan Powell,Spice Kitchen,Paneer Curry,101.25,46
+707,Mr Brian Heath,KFC,Chicken Strips,356.77,45
+708,Megan Sharp-Chandler,Dominos,BBQ Chicken Pizza,474.34,23
+709,Miss Elaine Atkins,Burger King,Spicy Burger,424.08,14
+710,Joyce Bishop,Pasta Corner,Lasagna,352.84,18
+711,Miss Valerie Long,Noodle Paradise,Pad Thai,158.91,52
+712,Nicholas Johnson,Subway,Italian BMT,405.08,14
+713,Dr Jessica Page,Burger King,Royal Burger,312.01,44
+714,Albert Palmer,Mc Donalds,McSpicy,294.64,60
+715,Sam Booth,Taj Mahal,Paneer Tikka,99.22,25
+716,Ms Leanne Patel,Noodle Paradise,Pad Thai,124.85,49
+717,Dr Trevor Baker,Dominos,BBQ Chicken Pizza,485.07,31
+718,Carolyn Connor-Hall,Pasta Corner,Lasagna,97.68,16
+719,Heather Ali,Biryani House,Mutton Biryani,279.8,43
+720,Ms Georgina Smith,Mc Donalds,Quarter Pounder,250.6,35
+721,Maria Willis,Burger King,Crispy Veg Burger,205.24,11
+722,Jeffrey Green,Burger King,Whopper Burger,182.94,15
+723,Neil Barnett-Patel,Pizza Hut,Super Cheese Pizza,206.75,31
+724,Josh Thomas,Burger King,Crispy Veg Burger,284.5,32
+725,Barbara Nelson,Burger King,Whopper Burger,247.17,54
+726,Albert Moore,Burger King,Spicy Burger,80.23,12
+727,Stuart Taylor,Pasta Corner,Spaghetti Carbonara,60.16,31
+728,Miss Linda Kelly,Noodle Paradise,Ramen,354.71,20
+729,Elizabeth Morris,Dragon Wok,Egg Noodles,282.2,45
+730,Dr Adrian Booth,Subway,Turkey Sub,301.93,39
+731,Timothy Frost-Smith,KFC,Chicken Wings,333.39,21
+732,Miss Janice Hall,Noodle Paradise,Chow Mein,228.01,57
+733,Antony Herbert,Taco Bell,Soft Taco,252.31,37
+734,Dr Joan Gibson,Spice Kitchen,Chana Masala,367.13,23
+735,Damian Carter-Potter,Biryani House,Chicken Biryani,309.81,44
+736,Sheila Webster,Subway,Turkey Sub,196.69,39
+737,Kim Taylor,Pizza Hut,Paneer Pizza,351.82,41
+738,Liam Brown-Fisher,Mc Donalds,McVeggie,318.64,49
+739,Gregory Peters,Spice Kitchen,Chana Masala,206.57,39
+740,Ann Chapman-Wilson,Taco Bell,Soft Taco,416.18,55
+741,Adrian Morley,Pasta Corner,Fettuccine Alfredo,463.41,47
+742,Glenn Haynes,Pizza Hut,Super Cheese Pizza,190.93,25
+743,Dr Danny Cox,Biryani House,Chicken Biryani,132.37,54
+744,Graham Hope,Subway,Italian BMT,238.21,18
+745,Ms Diane Atkinson,Taco Bell,Quesadilla,240.37,41
+746,Colin Bell,Noodle Paradise,Lo Mein,299.71,41
+747,Danny Andrews,Biryani House,Mutton Biryani,134.19,38
+748,Andrew Bryant,Taco Bell,Crunchy Taco,439.49,10
+749,Hollie Parker,Burger King,Crispy Veg Burger,137.81,34
+750,Chelsea Khan,Mc Donalds,McSpicy,234.11,41
+751,Connor Townsend,Spice Kitchen,Rogan Josh,269.91,15
+752,Rebecca Lloyd,Taco Bell,Crunchy Taco,408.15,24
+753,Christian Howard,Biryani House,Chicken Biryani,173.68,44
+754,Brett McDonald,Biryani House,Mutton Biryani,401.33,46
+755,Hugh Jones,Dragon Wok,Hakka Noodles,297.38,17
+756,Brenda Fisher,Taco Bell,Crunchy Taco,170.55,44
+757,Julie Hill,Taj Mahal,Paneer Tikka,392.0,38
+758,Sara Stewart-Brown,Mc Donalds,Quarter Pounder,495.4,16
+759,Dr Craig Dean,Dragon Wok,Egg Noodles,183.97,12
+760,Marian Bray,Burger King,Spicy Burger,206.86,15
+761,Rosie Hill,Burger King,Whopper Burger,399.03,25
+762,Dr Aaron James,KFC,Zinger Burger,437.47,49
+763,Joanna Schofield,Noodle Paradise,Chow Mein,124.69,18
+764,Lawrence Smith,Pasta Corner,Penne Arrabbiata,416.09,13
+765,Nathan Hodgson-Finch,Taco Bell,Burrito,289.53,48
+766,Jill Chambers,Mc Donalds,Quarter Pounder,195.64,55
+767,Andrew Green,Biryani House,Vegetable Biryani,307.73,42
+768,Dr Julia Jones,Noodle Paradise,Ramen,111.02,58
+769,Christopher Campbell,Pasta Corner,Lasagna,463.45,27
+770,Rachael Brady,Noodle Paradise,Lo Mein,365.64,18
+771,Roger Armstrong,KFC,Chicken Strips,370.13,25
+772,Mr Arthur Bell,Pasta Corner,Lasagna,270.26,46
+773,Bethany Hutchinson,Noodle Paradise,Pad Thai,332.52,34
+774,Glen Jones-Parker,Burger King,Whopper Burger,335.13,59
+775,Amelia Bennett,Pizza Hut,Chicken Pizza,282.03,27
+776,Lawrence Slater,Dragon Wok,Schezwan Rice,254.61,41
+777,Sally Brown,Taj Mahal,Paneer Tikka,441.01,56
+778,Francesca Connor,Pizza Hut,Chicken Pizza,335.68,54
+779,Dr Ian Burns,Taj Mahal,Paneer Tikka,408.06,35
+780,Trevor Sullivan,KFC,Chicken Wings,421.18,41
+781,Dr Declan Wheeler,Biryani House,Vegetable Biryani,422.75,31
+782,Dr Diane Pearson,Mc Donalds,Quarter Pounder,304.76,41
+783,Simon Knight-Simpson,Pasta Corner,Fettuccine Alfredo,452.37,58
+784,Carol Williams,Dominos,Pepperoni Pizza,94.81,60
+785,Mr Ronald Butler,Burger King,Whopper Burger,105.91,20
+786,Joel Frost,Burger King,Royal Burger,50.3,37
+787,Dr Stephen Thomson,KFC,Chicken Strips,446.97,29
+788,Dr Duncan Wilson,Subway,Turkey Sub,92.0,33
+789,Roy Williams,Biryani House,Chicken Biryani,217.33,51
+790,Iain Benson,Subway,Veggie Sub,228.35,29
+791,Rosie Harris,Dragon Wok,Egg Noodles,243.15,15
+792,Deborah Reeves,Dragon Wok,Fried Rice,50.49,40
+793,Janice Ellis,Pizza Hut,Super Cheese Pizza,317.16,43
+794,Martin Cox,Noodle Paradise,Chow Mein,54.18,54
+795,Miss Michelle Green,Taj Mahal,Paneer Tikka,494.67,37
+796,Melissa Evans-Phillips,Dragon Wok,Egg Noodles,264.97,24
+797,Tracey Kay,Spice Kitchen,Chana Masala,378.84,16
+798,Ricky Duffy,Pizza Hut,Paneer Pizza,215.4,29
+799,Mrs Laura Archer,Subway,Italian BMT,398.06,58
+800,Jordan Anderson,Subway,Chicken Sub,80.79,46
+801,Sharon Smith,Dominos,Margherita Pizza,248.04,56
+802,Richard Hardy,KFC,Chicken Strips,463.95,49
+803,Wendy Sanchez,Noodle Paradise,Chow Mein,436.98,15
+804,Melissa Jackson,Pizza Hut,Super Cheese Pizza,388.6,47
+805,Derrick Thomas,Dragon Wok,Hakka Noodles,208.19,37
+806,Donald Evans,Taj Mahal,Tandoori Chicken,161.5,51
+807,Heather Raymond,Pizza Hut,Super Cheese Pizza,299.03,48
+808,Kathleen Jensen,Dragon Wok,Schezwan Rice,400.54,54
+809,Chad Smith,Dominos,Veggie Pizza,142.45,48
+810,Ryan James,Mc Donalds,Quarter Pounder,386.53,28
+811,Jessica Jordan,Noodle Paradise,Ramen,402.71,60
+812,Marilyn Wheeler,KFC,Chicken Wings,223.65,25
+813,Larry Dominguez,Burger King,Whopper Burger,287.73,10
+814,Christopher Sanders,Taj Mahal,Butter Chicken,109.39,46
+815,Nicholas Chen,Spice Kitchen,Paneer Curry,295.86,21
+816,Rachael Nguyen,Pasta Corner,Lasagna,479.5,59
+817,Richard Diaz,Pizza Hut,Cheese Pizza,314.31,10
+818,Christina Osborn,Biryani House,Mutton Biryani,67.92,13
+819,Randall Johnson,Pasta Corner,Lasagna,277.97,50
+820,Terri Clark,Dragon Wok,Hakka Noodles,240.61,35
+821,Sandra Jones,Pizza Hut,Super Cheese Pizza,174.86,29
+822,Rebecca Chambers,Pizza Hut,Super Cheese Pizza,488.44,19
+823,Eric King,Mc Donalds,McVeggie,225.83,50
+824,Jay Bennett,Pasta Corner,Spaghetti Carbonara,189.58,37
+825,Kyle Aguilar,Dragon Wok,Egg Noodles,76.06,15
+826,Tammy Kane,Spice Kitchen,Chana Masala,254.02,48
+827,Andrew Schmitt,Dominos,Veggie Pizza,349.74,52
+828,Robin Wheeler,Dragon Wok,Egg Noodles,103.75,55
+829,Ashley Wright,Subway,Veggie Sub,123.72,32
+830,Carol Salazar,Mc Donalds,McVeggie,125.13,18
+831,Maria Lucas,Dragon Wok,Schezwan Rice,379.82,17
+832,Erin Hogan,Pasta Corner,Spaghetti Carbonara,200.75,37
+833,Brett Walker,Biryani House,Chicken Biryani,168.33,46
+834,Kristin Watts,Noodle Paradise,Ramen,273.27,42
+835,James Ford,Taj Mahal,Paneer Tikka,274.82,46
+836,Melissa Hernandez,Subway,Turkey Sub,120.79,59
+837,Mrs. Elizabeth Knapp MD,Pizza Hut,Cheese Pizza,152.78,42
+838,Monica Bailey,Dominos,Pepperoni Pizza,436.41,10
+839,Richard Boyd,KFC,Chicken Bucket,262.29,34
+840,Brent Bowen,Subway,Chicken Sub,469.02,12
+841,Austin Williams,Mc Donalds,McSpicy,151.03,25
+842,Alison Cooper,Spice Kitchen,Paneer Curry,172.07,14
+843,Robert Spears,Taco Bell,Burrito,103.73,53
+844,Kelli Arnold,Dominos,Margherita Pizza,150.43,43
+845,Jeffery Murray,Dominos,BBQ Chicken Pizza,81.02,39
+846,Lori Lopez,Biryani House,Vegetable Biryani,197.29,45
+847,Jennifer Mclaughlin,Burger King,Whopper Burger,216.01,28
+848,Joanna Jordan,Taco Bell,Burrito,382.81,25
+849,Daniel Ramirez,Burger King,Spicy Burger,316.26,41
+850,Rebecca Ray,Pasta Corner,Penne Arrabbiata,379.61,44
+851,Kimberly Diaz,Pasta Corner,Penne Arrabbiata,117.75,36
+852,Brian Lambert,Dominos,Margherita Pizza,293.7,50
+853,Vincent Edwards MD,Dragon Wok,Fried Rice,477.95,10
+854,Brian Bell,Pasta Corner,Lasagna,432.05,56
+855,Christopher Nunez,Biryani House,Chicken Biryani,142.34,25
+856,Tamara Lawrence,Spice Kitchen,Rogan Josh,482.53,19
+857,Emily Allen,Dragon Wok,Schezwan Rice,91.86,24
+858,James Thomas,Mc Donalds,McSpicy,365.38,33
+859,Kyle Andrews,Burger King,Whopper Burger,311.35,42
+860,John Medina,Subway,Italian BMT,83.67,46
+861,Tara Thompson,Dominos,BBQ Chicken Pizza,348.1,18
+862,Dylan Lopez,KFC,Zinger Burger,167.45,30
+863,Lisa Glenn,Pasta Corner,Lasagna,365.33,57
+864,Kari Lee,Taj Mahal,Butter Chicken,253.74,24
+865,Justin Delgado,Pizza Hut,Super Cheese Pizza,111.25,59
+866,John Mckinney,Taco Bell,Crunchy Taco,119.93,20
+867,Christopher Cunningham,Burger King,Royal Burger,191.31,17
+868,Connie Johnson,Mc Donalds,McVeggie,484.09,23
+869,Dylan Norman,Burger King,Spicy Burger,258.51,17
+870,Patricia Simpson,Pizza Hut,Super Cheese Pizza,413.42,29
+871,Laura Adams,Dragon Wok,Fried Rice,146.76,30
+872,Wendy Weaver,Subway,Veggie Sub,370.02,32
+873,Olivia Alexander,Spice Kitchen,Chana Masala,354.73,26
+874,Jeffery Fitzgerald,Subway,Veggie Sub,478.44,38
+875,Danielle Golden,Mc Donalds,Quarter Pounder,92.63,16
+876,Dennis Atkins,Pasta Corner,Penne Arrabbiata,104.65,13
+877,Sean Wilson,Pasta Corner,Penne Arrabbiata,108.82,35
+878,Christine Rojas,Taj Mahal,Paneer Tikka,312.05,26
+879,Shannon Bishop,Pizza Hut,Cheese Pizza,498.72,22
+880,Luis Glover,Noodle Paradise,Chow Mein,414.18,15
+881,Renee Hudson,Pasta Corner,Fettuccine Alfredo,105.14,39
+882,Linda Jackson,Dominos,Margherita Pizza,465.86,37
+883,Eileen Armstrong,Dragon Wok,Hakka Noodles,273.26,34
+884,Kayla Mccullough,Noodle Paradise,Chow Mein,127.76,23
+885,Brandy Brady,Subway,Turkey Sub,175.93,19
+886,Anthony Ramirez,Dominos,Margherita Pizza,341.28,41
+887,Meredith Anderson,Spice Kitchen,Rogan Josh,77.44,27
+888,Frank Wright,Spice Kitchen,Aloo Gobi,238.66,51
+889,Jenna Thomas,Pasta Corner,Penne Arrabbiata,333.84,44
+890,Lori Brooks,Pasta Corner,Spaghetti Carbonara,495.23,60
+891,Robert Mack,Dragon Wok,Schezwan Rice,265.86,60
+892,Paul Neal,Burger King,Spicy Burger,460.7,42
+893,Jordan Freeman,Taj Mahal,Dal Makhani,171.7,11
+894,Sheila Boone,Taj Mahal,Tandoori Chicken,63.19,59
+895,William Reid,Biryani House,Chicken Biryani,413.89,40
+896,Sarah Flynn,Mc Donalds,McVeggie,395.08,24
+897,Walter Summers,Subway,Veggie Sub,161.54,25
+898,Frank Campbell MD,Biryani House,Chicken Biryani,393.82,24
+899,Samuel Kramer,Taco Bell,Quesadilla,209.66,21
+900,Pamela Williams,Subway,Chicken Sub,316.63,57
+901,Sara Smith,Dragon Wok,Schezwan Rice,461.29,11
+902,Brooke Bryant,Dragon Wok,Schezwan Rice,476.4,46
+903,Jessica Forbes DVM,Subway,Chicken Sub,426.51,41
+904,Elizabeth Baxter,Mc Donalds,McVeggie,129.0,12
+905,Anna Ward,Pizza Hut,Cheese Pizza,154.68,24
+906,Matthew Banks,Dominos,BBQ Chicken Pizza,50.31,49
+907,Mario Barber,KFC,Chicken Strips,203.34,21
+908,Jessica Davis,Pasta Corner,Fettuccine Alfredo,76.8,19
+909,Daniel Miller,Taco Bell,Soft Taco,398.46,43
+910,Kelly Wallace,Taj Mahal,Paneer Tikka,218.12,52
+911,Greg Martinez,Spice Kitchen,Chana Masala,201.45,30
+912,Melissa Woods,Subway,Chicken Sub,379.56,37
+913,Brandon Shaffer,Pasta Corner,Lasagna,342.13,21
+914,Jacob Evans,Dragon Wok,Schezwan Rice,150.46,47
+915,Robert Baxter,Subway,Italian BMT,188.07,54
+916,Megan Jones,Biryani House,Mutton Biryani,129.97,10
+917,Lisa Martin,Dragon Wok,Hakka Noodles,432.84,59
+918,Daniel Goodman,Taco Bell,Crunchy Taco,131.94,30
+919,Lisa Ramos,Pasta Corner,Penne Arrabbiata,337.84,16
+920,Steven Taylor,Burger King,Crispy Veg Burger,199.03,14
+921,Nicholas Bell,KFC,Zinger Burger,492.07,20
+922,Richard Wright,Noodle Paradise,Ramen,419.75,52
+923,Danielle Burke,Noodle Paradise,Pad Thai,250.98,26
+924,Dominique Pugh,KFC,Chicken Strips,361.93,32
+925,Ryan Liu,Biryani House,Chicken Biryani,374.19,13
+926,Lawrence Lopez,Spice Kitchen,Rogan Josh,379.66,20
+927,Matthew Bowers,Spice Kitchen,Rogan Josh,446.8,32
+928,Cynthia Cruz,Mc Donalds,McSpicy,95.64,40
+929,Mark Jones,Pasta Corner,Penne Arrabbiata,123.2,14
+930,Alexandria Ward,Pasta Corner,Spaghetti Carbonara,182.71,30
+931,James Combs,Biryani House,Chicken Biryani,83.39,20
+932,Joshua Thompson,Spice Kitchen,Aloo Gobi,379.39,45
+933,William Jones,Pizza Hut,Paneer Pizza,317.31,49
+934,Alexis Lewis,Burger King,Whopper Burger,244.1,51
+935,Tiffany Sanders,Subway,Italian BMT,120.7,16
+936,Micheal Wang,Taj Mahal,Tandoori Chicken,488.48,36
+937,James Davidson,Dragon Wok,Schezwan Rice,347.27,29
+938,Brittany Miller,KFC,Chicken Bucket,72.34,46
+939,Thomas Mccann,Mc Donalds,McSpicy,119.12,33
+940,Gabriel Willis,Dominos,BBQ Chicken Pizza,89.43,52
+941,Marie Day,Noodle Paradise,Chow Mein,139.85,11
+942,Jeffrey Ashley,KFC,Chicken Strips,337.19,15
+943,David Middleton,Burger King,Whopper Burger,188.76,35
+944,Logan Brown,Burger King,Royal Burger,452.69,26
+945,Mary Thompson,Pizza Hut,Chicken Pizza,133.2,34
+946,Chad Smith,Taj Mahal,Tandoori Chicken,250.6,26
+947,Gregory Holmes PhD,Burger King,Royal Burger,168.53,27
+948,Jacob Brady,Taco Bell,Crunchy Taco,118.01,54
+949,Morgan Wilson,Noodle Paradise,Ramen,88.57,32
+950,Frances Patterson,Pasta Corner,Lasagna,486.82,47
+951,Deborah Proctor,KFC,Chicken Bucket,428.36,43
+952,Kathleen Dixon,Spice Kitchen,Rogan Josh,307.72,25
+953,Scott Jackson,Burger King,Spicy Burger,85.53,55
+954,Raymond Shannon,Dominos,Margherita Pizza,104.13,58
+955,Ashley Yang,Burger King,Crispy Veg Burger,477.08,20
+956,Scott Smith,KFC,Chicken Strips,106.78,37
+957,Jack Mora,Pizza Hut,Chicken Pizza,140.86,50
+958,Tyler Johnson,Subway,Turkey Sub,193.89,56
+959,Michelle Rios,Pasta Corner,Spaghetti Carbonara,89.16,45
+960,David Moon,Spice Kitchen,Paneer Curry,435.48,43
+961,Roger Duncan,Burger King,Whopper Burger,403.95,49
+962,Michael Williams,Taco Bell,Quesadilla,100.63,19
+963,Jose Williams,Subway,Veggie Sub,466.22,46
+964,Shawn Cline,Pasta Corner,Spaghetti Carbonara,403.59,44
+965,Emily Miller,Taj Mahal,Dal Makhani,168.86,51
+966,Jacob Carter,Burger King,Royal Burger,66.86,27
+967,Nancy Sanchez,Spice Kitchen,Aloo Gobi,328.21,53
+968,Wesley Cuevas,Dragon Wok,Hakka Noodles,67.45,31
+969,Morgan Payne,Dragon Wok,Egg Noodles,72.18,40
+970,Brittany Randolph,Biryani House,Vegetable Biryani,59.1,60
+971,Joshua Fields,Biryani House,Vegetable Biryani,176.16,41
+972,Alexandra Rogers,Dragon Wok,Fried Rice,487.62,24
+973,Jamie Rojas,Subway,Turkey Sub,488.4,38
+974,Daniel Bird,Pasta Corner,Fettuccine Alfredo,171.24,36
+975,Tyrone Kaufman,Taco Bell,Crunchy Taco,134.57,23
+976,Douglas Williams,Spice Kitchen,Rogan Josh,391.77,33
+977,Ryan Gutierrez,Dominos,Margherita Pizza,79.53,55
+978,Judy Adkins,Mc Donalds,McSpicy,111.04,43
+979,Kathy Walsh,Taco Bell,Crunchy Taco,128.18,22
+980,Kevin Brown,Dominos,Margherita Pizza,64.88,13
+981,Bianca Carter,Taj Mahal,Tandoori Chicken,173.29,39
+982,Tammy Long,Mc Donalds,McSpicy,335.93,17
+983,Erika Chavez,Noodle Paradise,Ramen,158.87,41
+984,Tony Taylor,Taco Bell,Quesadilla,129.91,40
+985,Ashley Garcia,Taco Bell,Burrito,204.91,26
+986,Erik Martinez,Dragon Wok,Fried Rice,178.28,34
+987,Randy Hayes,Dominos,Margherita Pizza,434.22,59
+988,Samuel Davis,KFC,Chicken Strips,341.32,53
+989,Elizabeth Bush,KFC,Zinger Burger,343.21,42
+990,Cindy Gates,Dominos,Pepperoni Pizza,263.34,18
+991,Michael Schmitt,Noodle Paradise,Lo Mein,320.51,10
+992,Anthony Evans,KFC,Zinger Burger,323.75,29
+993,Carrie Crane,Dragon Wok,Schezwan Rice,240.71,34
+994,Kristi Pierce,Taj Mahal,Dal Makhani,163.4,39
+995,Brian Leon,Biryani House,Hyderabadi Dum Biryani,313.02,10
+996,Antonio Norman,Mc Donalds,McVeggie,302.66,48
+997,Craig Morales,Taco Bell,Burrito,184.31,16
+998,Teresa Miller,Burger King,Whopper Burger,201.33,27
+999,Sylvia Jones,Noodle Paradise,Pad Thai,437.67,26
+1000,Christina Brewer PhD,Noodle Paradise,Pad Thai,134.76,43
+1001,Ryan Lamb,Pasta Corner,Penne Arrabbiata,454.86,48
+1002,Tom Williams,Spice Kitchen,Paneer Curry,356.34,56
+1003,Jessica Ramsey,Dominos,BBQ Chicken Pizza,498.86,26
+1004,James Simmons MD,Spice Kitchen,Rogan Josh,224.72,12
+1005,Denise Griffin,Taco Bell,Soft Taco,204.43,55
+1006,Lucas Jensen,KFC,Chicken Wings,457.94,52
+1007,Kathleen Andrade,Taj Mahal,Butter Chicken,430.44,52
+1008,Brandon Reyes,Mc Donalds,Quarter Pounder,182.2,40
+1009,Marvin Robles,Subway,Turkey Sub,376.33,45
+1010,Zachary Stephens,Pasta Corner,Penne Arrabbiata,476.12,31
+1011,James Reeves,Noodle Paradise,Ramen,150.01,24
+1012,Richard Cooper,Dragon Wok,Schezwan Rice,239.21,31
+1013,Erica Nelson,Taj Mahal,Butter Chicken,313.51,39
+1014,Kyle Johnson,Pizza Hut,Chicken Pizza,74.15,50
+1015,Diana Stokes,Taco Bell,Crunchy Taco,262.5,22
+1016,Hunter Silva,Mc Donalds,Big Mac,440.37,34
+1017,Christopher Wright,Mc Donalds,McVeggie,235.9,19
+1018,Joseph Moody,Subway,Chicken Sub,204.2,46
+1019,Pamela Gould,Burger King,Crispy Veg Burger,192.37,55
+1020,Vickie Price,Subway,Veggie Sub,269.41,50
+1021,Wendy Thompson,Subway,Turkey Sub,335.52,10
+1022,Evan Rojas,Burger King,Spicy Burger,144.22,59
+1023,Kevin Warner,Subway,Chicken Sub,270.31,58
+1024,Keith Thomas,Pasta Corner,Spaghetti Carbonara,108.23,37
+1025,Sara Cochran,Noodle Paradise,Chow Mein,231.53,40
+1026,Kimberly Thompson,Spice Kitchen,Chana Masala,66.98,22
+1027,Anthony Guzman,Dragon Wok,Schezwan Rice,477.53,30
+1028,John Rivera,Pasta Corner,Penne Arrabbiata,58.06,10
+1029,Renee Peterson,Noodle Paradise,Lo Mein,151.82,32
+1030,Robert Oneill,Biryani House,Mutton Biryani,96.22,42
+1031,Charles Bush,Taco Bell,Burrito,125.16,12
+1032,Brian Fox,Biryani House,Vegetable Biryani,255.17,43
+1033,Benjamin Bush,Taco Bell,Burrito,245.15,53
+1034,Laurie Rogers,Subway,Turkey Sub,498.26,41
+1035,William Oconnor,Taj Mahal,Tandoori Chicken,124.2,35
+1036,Mark Freeman,Dominos,Margherita Pizza,150.94,18
+1037,Michael Hoffman,KFC,Chicken Bucket,315.36,20
+1038,Lisa Kelly,Pizza Hut,Paneer Pizza,370.0,60
+1039,Robin Gray,Dominos,BBQ Chicken Pizza,444.44,26
+1040,Elizabeth Thompson,Pasta Corner,Spaghetti Carbonara,317.27,13
+1041,Michael Berry,Noodle Paradise,Ramen,344.11,11
+1042,Patricia Bradley,Dominos,Pepperoni Pizza,237.55,34
+1043,Evan Lamb,Pizza Hut,Paneer Pizza,263.48,19
+1044,Margaret Garcia,KFC,Chicken Bucket,185.5,52
+1045,Gary Miller MD,Pizza Hut,Paneer Pizza,330.26,54
+1046,Mark Mccarty,Subway,Italian BMT,423.79,16
+1047,Meagan Daniel,Mc Donalds,Big Mac,177.22,60
+1048,Adam Clark,Pizza Hut,Chicken Pizza,139.39,22
+1049,Hayley Buchanan,Pasta Corner,Fettuccine Alfredo,424.17,22
+1050,Amber Kim,Taj Mahal,Dal Makhani,182.91,12
+1051,Christopher Gutierrez,Mc Donalds,McSpicy,459.66,54
+1052,Heather Bennett,Burger King,Spicy Burger,155.53,10
+1053,Rachel Lane,Noodle Paradise,Ramen,458.1,46
+1054,Courtney Hayes,Noodle Paradise,Chow Mein,117.12,15
+1055,Amanda Smith,Pasta Corner,Spaghetti Carbonara,375.6,16
+1056,Brian Peterson,Biryani House,Mutton Biryani,255.54,28
+1057,Candace Jones,Biryani House,Hyderabadi Dum Biryani,72.54,21
+1058,Vanessa Morgan,Dominos,Veggie Pizza,212.1,53
+1059,Dr. Michele Reynolds,Taj Mahal,Dal Makhani,382.34,16
+1060,Lisa Hamilton,Pasta Corner,Spaghetti Carbonara,54.35,18
+1061,Gary Mccann,Noodle Paradise,Lo Mein,197.9,38
+1062,Julian Frost,Taco Bell,Burrito,445.31,15
+1063,Mary Evans,Taj Mahal,Butter Chicken,132.29,35
+1064,James Dunn,Spice Kitchen,Rogan Josh,172.32,34
+1065,Anthony Smith Jr.,Dragon Wok,Hakka Noodles,409.95,51
+1066,Lori Castillo,Pasta Corner,Penne Arrabbiata,100.88,54
+1067,Daniel Little,Dragon Wok,Fried Rice,491.71,20
+1068,Kara Wilson,Pizza Hut,Chicken Pizza,460.05,40
+1069,Kaitlin Jacobson,Pasta Corner,Lasagna,131.57,34
+1070,Martin Hughes,Pasta Corner,Fettuccine Alfredo,325.11,53
+1071,James Lopez,Dragon Wok,Egg Noodles,267.39,41
+1072,Jeremiah Baker,Pizza Hut,Chicken Pizza,248.31,14
+1073,Kristy Hernandez,Biryani House,Vegetable Biryani,55.56,53
+1074,Anne Barnett,Mc Donalds,Quarter Pounder,490.05,52
+1075,Jennifer Avila,Taj Mahal,Paneer Tikka,244.78,56
+1076,Antonio Hughes,KFC,Chicken Wings,205.59,53
+1077,Tracie Mcdaniel,Noodle Paradise,Chow Mein,116.89,45
+1078,Laura Young,Taco Bell,Crunchy Taco,55.24,20
+1079,James Nash,Mc Donalds,McSpicy,433.34,20
+1080,Kenneth Black,Pizza Hut,Chicken Pizza,194.29,31
+1081,Vickie Hernandez,Biryani House,Chicken Biryani,278.12,45
+1082,Joann Rush,Noodle Paradise,Chow Mein,231.47,25
+1083,Daniel Lee,Pizza Hut,Chicken Pizza,249.88,46
+1084,Blake Vega,Burger King,Whopper Burger,435.47,38
+1085,Rodney Hernandez,Taj Mahal,Paneer Tikka,491.3,57
+1086,Emma Acosta,Noodle Paradise,Ramen,96.19,36
+1087,Angie Hawkins,Dominos,Pepperoni Pizza,421.66,60
+1088,Shannon Stone,Taco Bell,Burrito,450.55,45
+1089,Alexandria Graves,KFC,Chicken Wings,477.66,33
+1090,Rachael Rodriguez,Dominos,Margherita Pizza,429.94,31
+1091,Keith Aguilar,Mc Donalds,McSpicy,372.5,33
+1092,Ariel Garcia,Dragon Wok,Hakka Noodles,101.31,58
+1093,Rachel Dillon,Noodle Paradise,Lo Mein,50.99,32
+1094,Sherry Baker,Noodle Paradise,Pad Thai,296.46,33
+1095,Laura Kennedy,Dragon Wok,Fried Rice,70.6,20
+1096,Jamie Montgomery,Burger King,Crispy Veg Burger,419.83,57
+1097,Jennifer Foster,Dragon Wok,Hakka Noodles,98.13,49
+1098,Melissa Williams,KFC,Chicken Strips,104.34,35
+1099,Derrick Watson,KFC,Chicken Wings,421.05,22
+1100,Riley Collins,Dragon Wok,Schezwan Rice,98.49,36
+1101,Shannon Cohen,Dominos,Pepperoni Pizza,397.47,38
+1102,Crystal Turner,Burger King,Crispy Veg Burger,483.73,10
+1103,Patricia Flores,Mc Donalds,Big Mac,298.95,37
+1104,Lisa Davis,Taco Bell,Quesadilla,465.97,59
+1105,Thomas Russell,Subway,Chicken Sub,378.72,18
+1106,Mr. James Brown,Pizza Hut,Chicken Pizza,345.88,48
+1107,Ana Mckinney,Taj Mahal,Dal Makhani,238.4,48
+1108,Richard Warren,Dragon Wok,Egg Noodles,173.12,31
+1109,Carrie Golden,Biryani House,Hyderabadi Dum Biryani,412.16,18
+1110,Anthony Johnson,Spice Kitchen,Paneer Curry,429.38,45
+1111,Isaac Gonzalez,Taj Mahal,Tandoori Chicken,140.4,49
+1112,John Sanders,Dragon Wok,Schezwan Rice,358.98,53
+1113,Melanie Allen,Subway,Chicken Sub,276.75,54
+1114,Jeremy Horne MD,Noodle Paradise,Pad Thai,369.66,58
+1115,Hailey Monroe,Taj Mahal,Dal Makhani,312.26,52
+1116,Ronald Davis,Dragon Wok,Hakka Noodles,353.41,44
+1117,Anthony Nash,Biryani House,Hyderabadi Dum Biryani,413.74,43
+1118,Cindy Walker,Pizza Hut,Cheese Pizza,221.39,13
+1119,Daniel Pearson,Noodle Paradise,Ramen,139.96,58
+1120,Sharon Coffey,Pasta Corner,Penne Arrabbiata,492.59,53
+1121,Kara Anderson,Biryani House,Mutton Biryani,427.72,54
+1122,Robert Walker,Pasta Corner,Fettuccine Alfredo,141.8,44
+1123,Terri Marquez,Dominos,Veggie Pizza,416.31,16
+1124,Desiree Woodard,Taco Bell,Soft Taco,384.09,45
+1125,Judy Robinson,Spice Kitchen,Aloo Gobi,279.92,60
+1126,Joseph Hanson,Pasta Corner,Fettuccine Alfredo,361.82,13
+1127,Adrienne Key,Spice Kitchen,Rogan Josh,237.45,60
+1128,Sara Hoffman,Noodle Paradise,Pad Thai,484.62,13
+1129,Diane Cohen,Dominos,Veggie Pizza,141.39,59
+1130,Mr. Donald Nguyen,Burger King,Crispy Veg Burger,460.17,55
+1131,Matthew Farley,Dragon Wok,Schezwan Rice,389.8,44
+1132,Chelsea Holmes,Dragon Wok,Egg Noodles,399.27,22
+1133,Anthony Mathews,Biryani House,Hyderabadi Dum Biryani,129.84,53
+1134,Jennifer Flores,Pizza Hut,Super Cheese Pizza,483.11,57
+1135,Alexander Jimenez,Mc Donalds,Big Mac,219.74,37
+1136,Terry Sullivan,Biryani House,Vegetable Biryani,108.53,47
+1137,Lauren Cooley,Biryani House,Chicken Biryani,198.75,55
+1138,Grace Reeves,Subway,Veggie Sub,119.17,30
+1139,Margaret Alvarez,Taco Bell,Crunchy Taco,398.15,50
+1140,Heather Evans,Taco Bell,Burrito,270.75,46
+1141,Matthew Grant,Mc Donalds,McVeggie,82.8,55
+1142,John Figueroa,Taj Mahal,Tandoori Chicken,480.64,43
+1143,Kristin Gaines,Pizza Hut,Super Cheese Pizza,237.17,44
+1144,Stephanie Pena,Spice Kitchen,Chana Masala,207.23,23
+1145,Daniel Savage,Noodle Paradise,Pad Thai,198.98,28
+1146,Stephen Watson,KFC,Chicken Wings,498.48,58
+1147,Julie Wilson,Noodle Paradise,Ramen,101.62,32
+1148,Mark Carpenter,Burger King,Crispy Veg Burger,457.02,49
+1149,Kaitlyn Lee,Taco Bell,Soft Taco,481.5,53
+1150,Michael Moreno,Taj Mahal,Dal Makhani,462.17,17
+1151,Seth Hernandez,Spice Kitchen,Paneer Curry,293.11,28
+1152,Grace Benitez DVM,Dominos,Veggie Pizza,281.44,42
+1153,Mrs. Shannon White,Burger King,Royal Burger,69.73,51
+1154,Gary Hatfield,KFC,Zinger Burger,281.25,16
+1155,Anthony Hayes,Subway,Veggie Sub,332.12,23
+1156,Raymond Johnston,Noodle Paradise,Lo Mein,439.23,37
+1157,Richard Chan,Pizza Hut,Super Cheese Pizza,291.99,54
+1158,Jeffrey Jordan,Dragon Wok,Hakka Noodles,340.95,14
+1159,John Smith,Dragon Wok,Egg Noodles,60.69,55
+1160,Monica Dodson,Taj Mahal,Paneer Tikka,89.38,13
+1161,Nicole Schmidt,Subway,Turkey Sub,301.14,46
+1162,Aaron Gross,KFC,Zinger Burger,233.43,38
+1163,Shawn Collins,Noodle Paradise,Chow Mein,244.86,11
+1164,Jonathan Torres,Spice Kitchen,Chana Masala,290.68,51
+1165,Angel Fry,Dragon Wok,Fried Rice,390.18,47
+1166,Joseph Warren,Dominos,Pepperoni Pizza,210.97,42
+1167,Michael Anderson,Pizza Hut,Paneer Pizza,404.1,29
+1168,Katherine Christensen MD,Taco Bell,Crunchy Taco,176.68,38
+1169,Robin Smith,Spice Kitchen,Rogan Josh,419.96,11
+1170,William Clark,Burger King,Crispy Veg Burger,290.06,18
+1171,Jonathan Martinez,Dragon Wok,Hakka Noodles,408.55,44
+1172,Rebecca Brooks,Biryani House,Mutton Biryani,184.13,60
+1173,Patricia Dean,Dragon Wok,Schezwan Rice,480.83,10
+1174,Amber Rodriguez,Mc Donalds,Quarter Pounder,105.46,10
+1175,Amber Wilson,Taco Bell,Quesadilla,291.72,15
+1176,Caleb King,Biryani House,Mutton Biryani,386.73,56
+1177,Christine Jennings,Taj Mahal,Tandoori Chicken,235.69,51
+1178,Jason Garcia,Mc Donalds,Quarter Pounder,122.43,24
+1179,Lisa Haynes,Taco Bell,Burrito,137.45,21
+1180,Steven Hunt,Noodle Paradise,Ramen,433.12,45
+1181,Diane Glover,Burger King,Whopper Burger,180.79,14
+1182,Mr. Richard Decker DVM,Biryani House,Chicken Biryani,138.84,47
+1183,Jason Martin,Burger King,Spicy Burger,210.71,52
+1184,Susan Watts,Noodle Paradise,Lo Mein,95.02,49
+1185,Mr. Adam Davis,Pizza Hut,Super Cheese Pizza,193.0,38
+1186,Kenneth Snyder,Taj Mahal,Butter Chicken,362.06,19
+1187,Penny Jones,Taco Bell,Burrito,413.46,37
+1188,Summer Newman,Subway,Veggie Sub,190.95,60
+1189,William Baker,KFC,Chicken Wings,174.51,33
+1190,Robert Sawyer,Subway,Turkey Sub,445.05,39
+1191,Heather Rhodes,Burger King,Spicy Burger,398.65,41
+1192,Brian York,Mc Donalds,Big Mac,129.1,48
+1193,Alexandra Taylor,Pizza Hut,Paneer Pizza,436.42,18
+1194,Erin Kline,Mc Donalds,Quarter Pounder,168.46,50
+1195,Debra Quinn,Pizza Hut,Cheese Pizza,451.45,42
+1196,Grant Wilson,Noodle Paradise,Ramen,415.69,47
+1197,Jesus Houston,Spice Kitchen,Aloo Gobi,457.84,45
+1198,Karen Fisher,Biryani House,Hyderabadi Dum Biryani,344.26,19
+1199,Carol Anderson,Taj Mahal,Dal Makhani,150.49,59
+1200,Vicki Richard,Taco Bell,Burrito,110.25,42
+1201,Lewis Pigott,Mc Donalds,Big Mac,228.55,42
+1202,Dr. Dara McGreal,Dominos,Margherita Pizza,431.59,49
+1203,Dr. Tomas Brown,Noodle Paradise,Lo Mein,390.74,18
+1204,Ms. Karen Quinlan,Burger King,Crispy Veg Burger,130.62,46
+1205,Lee Nash,Noodle Paradise,Lo Mein,381.16,40
+1206,Bradley Keoghan,Taj Mahal,Paneer Tikka,148.47,41
+1207,Dr. Alan Sinnott,KFC,Chicken Bucket,168.96,24
+1208,Mr. Jared Sheehan,Dominos,Margherita Pizza,283.05,60
+1209,Nikki Cunneen,Taj Mahal,Dal Makhani,261.35,39
+1210,Nadia Johnson,Dominos,Pepperoni Pizza,491.27,30
+1211,Evie McIlwee,Pizza Hut,Paneer Pizza,425.69,26
+1212,Ryan Clohessey,Taco Bell,Soft Taco,219.5,34
+1213,Conrad Ronan,Taj Mahal,Paneer Tikka,282.5,34
+1214,Dr. Tamara Reid,KFC,Chicken Wings,208.8,32
+1215,Ms. Antoinette Raleigh,Burger King,Royal Burger,449.23,10
+1216,Dairine Magennity,Mc Donalds,Quarter Pounder,247.95,24
+1217,Ben Rowan-Heavey,Pizza Hut,Paneer Pizza,145.18,21
+1218,Melissa McGovern,Subway,Turkey Sub,320.91,17
+1219,Shelley Hishon,Noodle Paradise,Lo Mein,236.58,31
+1220,Micheal Neligan,Dragon Wok,Fried Rice,266.68,40
+1221,Dr. Callum Richards,Burger King,Crispy Veg Burger,315.86,51
+1222,Ellie Dillon,Spice Kitchen,Chana Masala,159.65,18
+1223,Robyn Bodkin,Taco Bell,Soft Taco,110.63,42
+1224,Kristopher Melody,Dominos,Margherita Pizza,75.16,26
+1225,Ryan Tuohy,Subway,Italian BMT,319.71,46
+1226,Calum Lynn,Noodle Paradise,Ramen,445.33,56
+1227,Laura Hallahan,Noodle Paradise,Pad Thai,476.26,23
+1228,Dr. Jarlath McDunphy,Burger King,Royal Burger,440.29,20
+1229,Mrs. Shelley Heckett,KFC,Chicken Wings,320.38,60
+1230,Dr. Erica Woulfe,Taco Bell,Soft Taco,330.45,42
+1231,Dr. Jonathon O'Cadden,Biryani House,Mutton Biryani,375.88,31
+1232,Caoimhin Heaphy,Burger King,Whopper Burger,153.42,34
+1233,Jarlath McCooey,Subway,Veggie Sub,57.45,43
+1234,Miss Kirsty Shiels,Mc Donalds,McSpicy,421.93,48
+1235,Orla Deegan,Pizza Hut,Super Cheese Pizza,264.14,49
+1236,Craig Raol,Taco Bell,Crunchy Taco,444.99,44
+1237,Kyle Deely,Mc Donalds,Big Mac,91.94,52
+1238,Tom Goulding-Gilmartin,Subway,Veggie Sub,453.64,59
+1239,Kevin Harrihy,Noodle Paradise,Chow Mein,284.92,33
+1240,Simone Glazier,Dominos,BBQ Chicken Pizza,153.27,40
+1241,Miss Billie-Jo Miley,Pasta Corner,Lasagna,207.73,57
+1242,William Donegan,Pasta Corner,Spaghetti Carbonara,241.47,26
+1243,Dr. Michael Roe,Burger King,Crispy Veg Burger,459.54,15
+1244,Padraig Ashman,Biryani House,Hyderabadi Dum Biryani,166.01,10
+1245,Rhian Cauley,Dragon Wok,Fried Rice,310.09,17
+1246,Jayne Pinder,Mc Donalds,Big Mac,218.76,23
+1247,Saskia Garry,Dragon Wok,Schezwan Rice,233.98,16
+1248,Ms. Rebekah Dornan,Subway,Italian BMT,343.21,26
+1249,Keith MacMullan,Biryani House,Hyderabadi Dum Biryani,304.1,49
+1250,Toni McIlroy,Biryani House,Hyderabadi Dum Biryani,389.74,36
+1251,Maeve Jennings,Mc Donalds,McSpicy,130.42,45
+1252,Killian McAnally-Lincoln,Mc Donalds,McSpicy,164.2,29
+1253,Shannen Duane,Taco Bell,Burrito,398.39,35
+1254,Leo Scanlan,Dragon Wok,Egg Noodles,434.75,52
+1255,Rowan MacEver-Walsh,Pizza Hut,Super Cheese Pizza,250.97,54
+1256,Mr. Declan Hankard,Subway,Veggie Sub,146.51,35
+1257,Patrice Lenaghan-McBreen,Pasta Corner,Fettuccine Alfredo,410.38,49
+1258,Mr. Danny Roden,Dragon Wok,Fried Rice,122.33,50
+1259,Nuala MacNabb,Dominos,Pepperoni Pizza,420.46,40
+1260,Mrs. Sabrina McClean,Taco Bell,Quesadilla,89.66,26
+1261,Kaitlyn Minogue,KFC,Zinger Burger,86.02,12
+1262,Dr. Logan Bell,Dragon Wok,Hakka Noodles,468.81,35
+1263,Bethany Brennan,Taco Bell,Burrito,370.22,48
+1264,Carly Clery,Dominos,Margherita Pizza,338.13,38
+1265,Mr. Declan Kieran,Dominos,Margherita Pizza,432.76,43
+1266,Mr. George Kangley,Biryani House,Mutton Biryani,65.12,48
+1267,Brad Linny,Mc Donalds,Quarter Pounder,326.84,53
+1268,Ronan Buttimore,Dominos,Veggie Pizza,157.67,10
+1269,Shauneen O'Cadden,Subway,Veggie Sub,498.57,59
+1270,Travis de Courcey,Spice Kitchen,Paneer Curry,351.35,35
+1271,Ms. Roberta Wrynn,Taco Bell,Soft Taco,282.98,57
+1272,Courtney Saors,Dragon Wok,Fried Rice,463.63,45
+1273,Dr. Barry McGuill,Biryani House,Vegetable Biryani,206.36,27
+1274,Jana MacDowell,KFC,Chicken Strips,254.64,35
+1275,Amie Belton,Taco Bell,Crunchy Taco,167.5,36
+1276,Miss Claire Neelin,Mc Donalds,Big Mac,301.38,42
+1277,Ms. Meg McEvaddy,Biryani House,Vegetable Biryani,476.16,42
+1278,Mr. Deaglan Lincoln,Biryani House,Vegetable Biryani,362.39,34
+1279,Charis Corish,Taco Bell,Quesadilla,396.49,58
+1280,Damian Scully,Taj Mahal,Dal Makhani,356.72,47
+1281,Justin Caplis,Dominos,BBQ Chicken Pizza,102.32,14
+1282,Dionne Weldon,Spice Kitchen,Aloo Gobi,354.61,24
+1283,Cillian Fitzgibbons-Keegan,Pasta Corner,Fettuccine Alfredo,235.59,32
+1284,Jaime O'Hussey,Mc Donalds,Big Mac,365.37,26
+1285,Ms. Alicia Felban,KFC,Zinger Burger,91.85,53
+1286,Lydia Clare,Dragon Wok,Schezwan Rice,84.21,21
+1287,Dr. Omar Twohig,Burger King,Spicy Burger,209.09,46
+1288,Annie MacGovern,Biryani House,Mutton Biryani,476.2,53
+1289,Colleen Gildea,KFC,Chicken Wings,381.7,25
+1290,Anna Roland,Dragon Wok,Egg Noodles,442.73,23
+1291,Leon Toms,KFC,Chicken Strips,425.72,49
+1292,India Cuffe,Taj Mahal,Tandoori Chicken,400.52,17
+1293,Collette Hardy,Pizza Hut,Chicken Pizza,326.22,58
+1294,Dr. Jaime McCusker,Mc Donalds,Big Mac,431.6,33
+1295,Donal Spenser-O'Shannon,Taco Bell,Burrito,271.55,46
+1296,Sian Barry,Biryani House,Hyderabadi Dum Biryani,132.29,58
+1297,Jeffrey Neylon,Mc Donalds,McVeggie,229.05,58
+1298,Zak Hutchinson,Taco Bell,Soft Taco,74.37,37
+1299,Ian McGuill,Burger King,Whopper Burger,276.11,35
+1300,Mr. Keelan Keenahan,Noodle Paradise,Lo Mein,255.74,17
+1301,Rachael Lane,Dragon Wok,Hakka Noodles,192.04,10
+1302,Phillip McGinley,Dominos,Margherita Pizza,220.74,16
+1303,Shannan Rush,Taj Mahal,Butter Chicken,325.75,26
+1304,Karley Carrig,Subway,Turkey Sub,156.71,40
+1305,David MacKeown-Scully,Taco Bell,Burrito,214.67,41
+1306,Caoimhin Forkin,Spice Kitchen,Aloo Gobi,238.59,58
+1307,Mr. Tyrone Condren,Taj Mahal,Butter Chicken,434.45,27
+1308,Warren Hardy,Burger King,Crispy Veg Burger,307.13,46
+1309,Dr. Sophie Day,Noodle Paradise,Lo Mein,416.39,56
+1310,Robin Mulvany,Biryani House,Mutton Biryani,299.9,34
+1311,Mr. Connor Brannelly,KFC,Chicken Strips,410.02,57
+1312,Paula Magrath,Subway,Italian BMT,412.55,21
+1313,Callan Coonan,Spice Kitchen,Rogan Josh,110.51,50
+1314,Danny Kealty,Mc Donalds,McVeggie,403.4,29
+1315,Anne-Marie Henery,Biryani House,Chicken Biryani,229.28,54
+1316,Kurtis McKeniry-O'Brennan,Subway,Veggie Sub,146.96,26
+1317,Dr. Lyndon MacGinley,Burger King,Whopper Burger,252.43,31
+1318,Kelvin Dignan,Biryani House,Vegetable Biryani,212.14,45
+1319,Abigail Comer,Pasta Corner,Fettuccine Alfredo,204.86,36
+1320,Mr. Brian McCready,Pizza Hut,Paneer Pizza,440.32,48
+1321,Bethany Leeney,KFC,Chicken Strips,490.72,28
+1322,Dr. Tobias Cribbons,Taj Mahal,Butter Chicken,352.94,41
+1323,Malachy McGuill-McMaster,Pasta Corner,Lasagna,450.33,34
+1324,Mrs. Julie-Anne Ferris,Taco Bell,Burrito,258.69,19
+1325,Colleen Dunleavey,Subway,Turkey Sub,239.82,49
+1326,Dr. Serena Torrence,Taco Bell,Quesadilla,432.01,14
+1327,William Evoy-Looney,Pizza Hut,Super Cheese Pizza,204.63,30
+1328,Dr. Aiden Walsh,Taj Mahal,Butter Chicken,369.7,48
+1329,Ms. Brooklyn Carleton,Noodle Paradise,Chow Mein,172.06,38
+1330,Sean-Paul McLoughlin,Pasta Corner,Fettuccine Alfredo,386.55,43
+1331,Kirsty Crean,Burger King,Royal Burger,125.29,11
+1332,Dillon McAreavey-Hanrahan,Subway,Chicken Sub,347.91,57
+1333,Yasmine Scanlon,Dragon Wok,Fried Rice,144.76,35
+1334,Cormac Gildea,Pizza Hut,Cheese Pizza,78.71,40
+1335,Travis Keany,Mc Donalds,Big Mac,61.86,35
+1336,Che Geherty,Mc Donalds,Big Mac,96.77,49
+1337,Mr. Roy O'Gorman,Subway,Veggie Sub,344.67,34
+1338,Mr. Gerard Connachton,Biryani House,Mutton Biryani,161.33,28
+1339,Caolain Gray-Quill,Burger King,Crispy Veg Burger,109.07,20
+1340,Fionnuala Dornan,Dominos,Pepperoni Pizza,348.6,30
+1341,Mr. Caolan Lavan,Burger King,Royal Burger,488.74,44
+1342,Annalise Golding-MacGovern,Biryani House,Hyderabadi Dum Biryani,110.8,54
+1343,Joanna Macrea,Mc Donalds,Quarter Pounder,315.87,39
+1344,Morgan MacAdoo-Feeny,Noodle Paradise,Chow Mein,285.56,50
+1345,Leah McElgunn-MacGinley,Mc Donalds,McVeggie,459.02,40
+1346,Ceara Atkins,Mc Donalds,Quarter Pounder,412.12,38
+1347,Dara Heaney,Biryani House,Vegetable Biryani,235.49,19
+1348,Dr. Diane McCumiskey,Biryani House,Chicken Biryani,50.04,58
+1349,Jaime Paul,Subway,Turkey Sub,179.04,44
+1350,Jessica McCrudden,Dominos,BBQ Chicken Pizza,476.13,40
+1351,Dr. Oisin Vaughan,Biryani House,Chicken Biryani,394.64,28
+1352,Damien Coyle,Taco Bell,Soft Taco,408.55,45
+1353,Miss Tara Dyer,Taj Mahal,Tandoori Chicken,235.28,45
+1354,Christine Kerley,Spice Kitchen,Rogan Josh,162.45,55
+1355,Mrs. Rachelle Corley,Dragon Wok,Hakka Noodles,422.79,24
+1356,Peadar Burke,Biryani House,Chicken Biryani,240.01,25
+1357,Dr. Saoirse Haran,Mc Donalds,McVeggie,178.1,57
+1358,Ruairi Kennelly,Mc Donalds,McVeggie,235.81,14
+1359,Una Thompson,Subway,Chicken Sub,180.32,50
+1360,Miriam Farrell,Burger King,Royal Burger,172.46,49
+1361,Heather Hedderman,Burger King,Crispy Veg Burger,194.29,19
+1362,Dr. Clifford O'Hehir,Dominos,Pepperoni Pizza,133.67,16
+1363,Kayleigh Crowe,Biryani House,Vegetable Biryani,106.27,38
+1364,Gabrielle Robertson,Dragon Wok,Fried Rice,154.76,19
+1365,Eoin Foley,Dominos,BBQ Chicken Pizza,147.73,36
+1366,Mr. Marco Finneran,Biryani House,Hyderabadi Dum Biryani,499.08,39
+1367,Scot Fall,Dragon Wok,Fried Rice,198.61,58
+1368,Dr. Frances Cantwell,Subway,Veggie Sub,169.93,35
+1369,Oisin Heron,Pizza Hut,Chicken Pizza,131.72,26
+1370,Finn McGahey,Spice Kitchen,Chana Masala,104.88,59
+1371,Ashley Haire,Dragon Wok,Egg Noodles,223.16,38
+1372,Zara McDaeid,KFC,Chicken Bucket,139.63,57
+1373,Julia O'Connell,Pasta Corner,Spaghetti Carbonara,284.51,23
+1374,Arron MacNeill,Burger King,Royal Burger,356.65,29
+1375,Pierce King,Taj Mahal,Tandoori Chicken,333.12,12
+1376,Miss Lindsay Toolis,Dragon Wok,Fried Rice,163.99,50
+1377,Chantelle McGlinchy-McGovern,Biryani House,Mutton Biryani,212.19,13
+1378,Lorna Cosgrove,Noodle Paradise,Lo Mein,487.97,25
+1379,Darragh McGlinchey,Noodle Paradise,Chow Mein,196.03,20
+1380,Phillip McTeague,Pasta Corner,Fettuccine Alfredo,313.11,35
+1381,Shelley McAveigh,Pasta Corner,Penne Arrabbiata,54.02,12
+1382,Selina Philbin,Taco Bell,Quesadilla,359.78,19
+1383,Abigail Roberts-Durning,Taj Mahal,Paneer Tikka,161.93,41
+1384,Cathy Heraghty,Pizza Hut,Paneer Pizza,468.88,58
+1385,Philip Lally,Noodle Paradise,Ramen,76.9,51
+1386,Conchur Gilliland,Subway,Veggie Sub,106.62,24
+1387,Jonathan Dignan,Taj Mahal,Butter Chicken,412.49,38
+1388,Mr. Leon Magee,Dragon Wok,Egg Noodles,59.61,34
+1389,Mrs. Kara Parsons,Taj Mahal,Tandoori Chicken,162.81,12
+1390,Claudia Fitzmartin,Burger King,Royal Burger,301.56,44
+1391,Dr. Alistair Hutchinson,Dragon Wok,Hakka Noodles,135.4,21
+1392,Ciaran Fitzgibbons,Mc Donalds,McVeggie,195.66,39
+1393,Warren Scanlon,Biryani House,Mutton Biryani,80.99,19
+1394,Sean-Paul Fannin,Burger King,Spicy Burger,418.74,44
+1395,Curtis Kelleher,Taj Mahal,Dal Makhani,50.32,50
+1396,Phillip McSharry,Mc Donalds,McSpicy,380.15,11
+1397,Lauren Boles-Lanigan,Taco Bell,Burrito,399.21,25
+1398,Don Nulty,Taj Mahal,Paneer Tikka,346.23,44
+1399,Julie Phelan-Freil,Spice Kitchen,Aloo Gobi,285.83,41
+1400,Lee Ennis,Pasta Corner,Penne Arrabbiata,325.87,30
+1401,Mr. Tyler Saors,Spice Kitchen,Paneer Curry,99.71,43
+1402,Curtis McAlunny-O'Carroll,Noodle Paradise,Ramen,69.7,18
+1403,Lucia Connellan-Hepenstall,Subway,Veggie Sub,140.94,41
+1404,Harriet Droney,KFC,Chicken Bucket,64.32,51
+1405,Albert Gubben,Spice Kitchen,Rogan Josh,286.62,54
+1406,Taylor Roe,Taco Bell,Burrito,72.09,24
+1407,Dr. Conchur Curnane,Taco Bell,Crunchy Taco,55.89,23
+1408,Neil Canavan,Noodle Paradise,Chow Mein,467.78,15
+1409,Mr. Calvin Phillips,Burger King,Whopper Burger,212.42,57
+1410,Mr. Tiernan Thom,Spice Kitchen,Paneer Curry,407.41,13
+1411,Mrs. Vanessa Mullery,Taco Bell,Burrito,288.06,56
+1412,Janet McGarrigle,Pizza Hut,Paneer Pizza,85.07,23
+1413,Mrs. Oonagh Spain,Mc Donalds,Big Mac,95.55,24
+1414,Corinne Philbin,Mc Donalds,McSpicy,135.26,43
+1415,Dr. Joe Curtin,Noodle Paradise,Lo Mein,306.51,21
+1416,Caitriona Keaveny,Mc Donalds,McSpicy,385.75,59
+1417,Sandra Hession,Noodle Paradise,Pad Thai,353.52,54
+1418,Mrs. Ebony Toole,Noodle Paradise,Chow Mein,447.27,20
+1419,Dearbhail Ginnitty,Pasta Corner,Penne Arrabbiata,297.48,42
+1420,Aedan Short,Taj Mahal,Tandoori Chicken,290.26,48
+1421,Pierce Banville,Burger King,Spicy Burger,456.12,45
+1422,Mollie Gwynn,Taj Mahal,Butter Chicken,235.55,50
+1423,Miss Jade McDevitt,Spice Kitchen,Paneer Curry,323.79,46
+1424,Conor Morrow,Mc Donalds,Quarter Pounder,218.78,45
+1425,Dr. Fergus Sweeny,Dragon Wok,Schezwan Rice,212.0,38
+1426,Laurie McElroe,Burger King,Royal Burger,50.09,12
+1427,Diane McNamee-Guinevan,Biryani House,Chicken Biryani,282.92,29
+1428,Kristin White,Dominos,Veggie Pizza,492.98,23
+1429,Charlene McGarraghy,Taj Mahal,Paneer Tikka,397.19,54
+1430,Lana Powell,Biryani House,Mutton Biryani,92.43,39
+1431,Hamish McAteer-McNealy,Taj Mahal,Tandoori Chicken,112.28,33
+1432,Ms. Tammy Dinan,Taco Bell,Soft Taco,154.85,29
+1433,Ms. Jessica Fitzpatrick,Pizza Hut,Chicken Pizza,306.08,23
+1434,Dominic Rudkins,Dragon Wok,Fried Rice,375.61,60
+1435,Seanan Marron,Burger King,Crispy Veg Burger,269.72,54
+1436,Mr. Cormac McKeon,Dragon Wok,Fried Rice,317.85,29
+1437,Mr. Calum Fahey,Dominos,BBQ Chicken Pizza,85.31,13
+1438,Lyndsay Mulvenna,Pasta Corner,Fettuccine Alfredo,206.57,37
+1439,Bradley Kerins,Spice Kitchen,Chana Masala,441.4,24
+1440,Joseph Courtenay,Dragon Wok,Fried Rice,335.25,50
+1441,Alice McIlroe-McPartlin,Spice Kitchen,Chana Masala,187.15,12
+1442,Mollie Sherry-Lawless,Taj Mahal,Tandoori Chicken,197.07,54
+1443,Mrs. Sarah-Jane Garavan,KFC,Chicken Strips,72.73,56
+1444,Dr. Malachy Beasty,Spice Kitchen,Rogan Josh,388.78,46
+1445,Piaras Lavery,Mc Donalds,Big Mac,149.94,28
+1446,Anton Sammon,Pasta Corner,Lasagna,116.61,31
+1447,Oonagh Hernon,Pizza Hut,Chicken Pizza,307.15,13
+1448,Ceara Caine-McCumisky,Mc Donalds,McSpicy,168.15,35
+1449,Aaron Fielding,Mc Donalds,McSpicy,398.22,18
+1450,Gareth McNicholas,Pasta Corner,Penne Arrabbiata,266.42,22
+1451,Naomh McMaster,Burger King,Royal Burger,343.51,22
+1452,Lorna Griffin,Mc Donalds,Quarter Pounder,159.04,27
+1453,Ailis Connellan,Pasta Corner,Lasagna,195.54,46
+1454,Roy Largey,Pizza Hut,Cheese Pizza,352.29,37
+1455,Miss Evie Kinny,Taj Mahal,Butter Chicken,135.72,32
+1456,Tobias Gorevan,Taco Bell,Crunchy Taco,396.36,20
+1457,India Atkins,Taj Mahal,Dal Makhani,330.43,38
+1458,Damien McVeigh-Rose,Dominos,Margherita Pizza,139.86,33
+1459,Sam Coogan,Subway,Veggie Sub,100.57,13
+1460,Eilish Maughan,KFC,Chicken Strips,440.94,28
+1461,Peter Kehoe,Dominos,Veggie Pizza,362.21,17
+1462,Shauneen Judge,Biryani House,Hyderabadi Dum Biryani,262.04,31
+1463,Dr. Grace Poland,KFC,Chicken Strips,141.71,43
+1464,Mr. Jared O'Dwyer,Pasta Corner,Fettuccine Alfredo,296.96,49
+1465,Dr. Stephen Brislane,Dragon Wok,Egg Noodles,362.78,52
+1466,Brogan Keightley,Dominos,BBQ Chicken Pizza,312.35,52
+1467,Karl Hawthorn,Mc Donalds,Big Mac,164.96,13
+1468,Mr. Henry Melville,Biryani House,Mutton Biryani,405.13,49
+1469,Kellie Sweeney,Biryani House,Chicken Biryani,259.23,10
+1470,Finbar Jennings,Pizza Hut,Chicken Pizza,347.17,52
+1471,Calvin McNelis-McAlinney,Noodle Paradise,Pad Thai,438.93,11
+1472,Ruari Gaughan,Biryani House,Hyderabadi Dum Biryani,154.03,34
+1473,Ellen McCollam,Mc Donalds,Big Mac,456.74,41
+1474,Sean-Paul Kildea,Taco Bell,Crunchy Taco,133.89,42
+1475,Daryl Richey,Burger King,Whopper Burger,67.89,43
+1476,Ms. Courteney Hughes,Biryani House,Vegetable Biryani,270.47,57
+1477,Miss Clare Hennessy,Subway,Veggie Sub,206.05,32
+1478,Eunan McCormick,Taj Mahal,Butter Chicken,156.29,42
+1479,Carter Diskin,Biryani House,Chicken Biryani,331.61,34
+1480,Oran Bann,Dominos,Veggie Pizza,151.51,31
+1481,Mr. Nigel McGauran,Spice Kitchen,Aloo Gobi,89.51,34
+1482,Ellie Raol-Kinnane,Mc Donalds,Quarter Pounder,237.8,46
+1483,Charlotte Sarsfield,Subway,Italian BMT,486.74,48
+1484,Killian Hearn-Dornan,Taj Mahal,Dal Makhani,294.01,23
+1485,Reuben Moore,Noodle Paradise,Lo Mein,311.46,53
+1486,Kirby Byrne,Pasta Corner,Penne Arrabbiata,438.16,29
+1487,Evie McLoon,Dragon Wok,Egg Noodles,243.53,59
+1488,Ms. Johanna Diver,Subway,Chicken Sub,192.87,45
+1489,Dr. Ellie Barrnette,Mc Donalds,Big Mac,132.86,19
+1490,Dillon McGrath,Dragon Wok,Fried Rice,394.45,36
+1491,Bernadette MacSweeney-McDermod,Spice Kitchen,Paneer Curry,249.35,50
+1492,Teresa Kenna-Gillis,Dragon Wok,Schezwan Rice,118.38,22
+1493,Deborah Hollins,Pizza Hut,Super Cheese Pizza,133.14,58
+1494,Nathan McAndrew-McElroy,Taco Bell,Burrito,322.52,49
+1495,Padraig Morgan,KFC,Chicken Strips,153.91,11
+1496,Liam McGeehan,Taj Mahal,Paneer Tikka,359.66,40
+1497,Tammy McPartland,Subway,Italian BMT,370.41,33
+1498,Mark Gay-Drennan,Subway,Italian BMT,271.15,18
+1499,Nikita Hennelly-Daniel,Subway,Chicken Sub,151.82,36
+1500,Miss Shannan Hoban,Pasta Corner,Spaghetti Carbonara,466.45,36
+1501,Jayne McGruddy,KFC,Chicken Strips,391.0,14
+1502,Conall Farrissy,Subway,Italian BMT,440.21,41
+1503,Shannen Baxter,Dragon Wok,Schezwan Rice,440.05,25
+1504,Lloyd Rigney,Spice Kitchen,Rogan Josh,399.3,48
+1505,Warren Shanny,Dragon Wok,Hakka Noodles,374.09,35
+1506,Phoebe MacGilligan,Taco Bell,Crunchy Taco,284.29,38
+1507,Dr. Graeme Kavanagh,Burger King,Whopper Burger,445.0,25
+1508,Tara Cassidy,Mc Donalds,McSpicy,492.72,12
+1509,Ayesha Flannelly,Mc Donalds,McSpicy,282.26,50
+1510,Don Keaveney,Dominos,Margherita Pizza,181.03,35
+1511,Sorcha Curnane,Biryani House,Vegetable Biryani,257.61,37
+1512,Robyn Manahan,Biryani House,Chicken Biryani,360.48,19
+1513,Jon McCurley-Wren,Burger King,Royal Burger,90.7,42
+1514,Sharon Kehoe,Pizza Hut,Super Cheese Pizza,400.43,54
+1515,Aisling Mellet,Mc Donalds,Quarter Pounder,226.88,30
+1516,Joe Greely,Burger King,Whopper Burger,130.5,47
+1517,Leonie Tehan-Ganley,Dragon Wok,Egg Noodles,447.15,15
+1518,Dr. John MacShea,Biryani House,Vegetable Biryani,361.27,55
+1519,Dr. Marco Costigan,Pasta Corner,Penne Arrabbiata,373.27,17
+1520,Maria Lawless,Pizza Hut,Cheese Pizza,367.8,50
+1521,Meaghan Fagan,Taj Mahal,Paneer Tikka,285.72,34
+1522,Ms. Meibh Markham,Dragon Wok,Egg Noodles,220.41,34
+1523,Meaghan McRoarty,Dominos,Margherita Pizza,460.51,46
+1524,Mrs. Aoibhin Fitzsimmons,Noodle Paradise,Lo Mein,122.96,19
+1525,Cora MacElgunn,Subway,Veggie Sub,238.81,29
+1526,Miriam Lenihan,Dragon Wok,Hakka Noodles,179.95,21
+1527,Miss Lynsey McMenamin,Pizza Hut,Super Cheese Pizza,482.2,10
+1528,Marc McDowell-Sherlock,Taco Bell,Burrito,55.49,41
+1529,Jamie-Lee Forkin,Burger King,Whopper Burger,323.59,41
+1530,Alistair Donohue,KFC,Chicken Strips,314.99,40
+1531,Ms. Nadia Keally,Burger King,Royal Burger,248.84,48
+1532,Mrs. Claudia Ford,Taco Bell,Crunchy Taco,160.12,45
+1533,Beth Cunningham,Biryani House,Mutton Biryani,72.01,19
+1534,Nathaniel Tubridy,Dominos,Veggie Pizza,66.52,12
+1535,Andrew McNamara,Noodle Paradise,Pad Thai,199.0,15
+1536,Samantha Crampsey,Dominos,Pepperoni Pizza,237.63,21
+1537,Finbar Fenning,Subway,Turkey Sub,324.99,54
+1538,Kelvin MacCole,Dragon Wok,Egg Noodles,484.83,57
+1539,Eugene Lardner,Taco Bell,Burrito,469.17,15
+1540,Maura Doohan,Pasta Corner,Fettuccine Alfredo,195.27,34
+1541,Reuben Freil,Pizza Hut,Chicken Pizza,429.49,14
+1542,Anton McCoy,Biryani House,Hyderabadi Dum Biryani,110.55,54
+1543,Miss Terri O'Sheil,Biryani House,Vegetable Biryani,287.17,43
+1544,Theresa Timlin,KFC,Chicken Strips,325.42,16
+1545,Rowan Nestor-Duignan,Taco Bell,Crunchy Taco,267.65,54
+1546,Ms. Lucia O'Devenny,Taco Bell,Burrito,242.17,30
+1547,Dr. Reece Stone,Biryani House,Vegetable Biryani,467.2,49
+1548,Jeffrey Phelan-Thompson,Taco Bell,Quesadilla,283.87,50
+1549,Callum Neary,Burger King,Royal Burger,413.59,49
+1550,Jordan Melody-Kenneally,KFC,Zinger Burger,490.67,10
+1551,Grant Beasty,Pizza Hut,Cheese Pizza,259.2,60
+1552,Raymond Dunleavey,Pizza Hut,Super Cheese Pizza,409.8,36
+1553,Edel O'Loughlin,Spice Kitchen,Chana Masala,200.21,45
+1554,Adele Randles,Pasta Corner,Penne Arrabbiata,55.08,22
+1555,Dr. Graeme Bartley,Dragon Wok,Schezwan Rice,164.49,14
+1556,Dr. Giles Herlihy,Biryani House,Vegetable Biryani,278.01,30
+1557,Mr. Rowan McGill,Pasta Corner,Spaghetti Carbonara,101.23,31
+1558,Lee Wrenn,Taj Mahal,Dal Makhani,375.98,49
+1559,Helen Joyce,Dominos,Margherita Pizza,137.31,31
+1560,Kelvin McGourty,Noodle Paradise,Chow Mein,462.27,12
+1561,Finbar Counihan,Noodle Paradise,Lo Mein,266.67,50
+1562,Maura Hosey,Burger King,Spicy Burger,258.11,36
+1563,Samantha Killoughry,Dragon Wok,Fried Rice,425.8,29
+1564,Richard Kilday-Menton,Taco Bell,Burrito,299.83,11
+1565,Brendan Gibbons,KFC,Zinger Burger,409.79,60
+1566,Gerard Denihan,Taj Mahal,Paneer Tikka,486.33,27
+1567,Dr. Trevor O'Cafferky,Dominos,Veggie Pizza,492.63,50
+1568,Troy Raney-Gilmore,Mc Donalds,Quarter Pounder,306.94,34
+1569,Aine Feeney,Subway,Veggie Sub,439.07,58
+1570,Robbie Boylan,Biryani House,Vegetable Biryani,369.43,27
+1571,Caomhan Lande,Spice Kitchen,Chana Masala,273.67,25
+1572,Cianan Murrihy-Barrett,Taj Mahal,Dal Makhani,423.26,29
+1573,Calum Fealy,KFC,Zinger Burger,128.76,33
+1574,Oran Hartigan,Pasta Corner,Spaghetti Carbonara,400.01,15
+1575,Janet MacDonagh,Burger King,Whopper Burger,409.56,42
+1576,Dr. Josh O'Hare,Subway,Chicken Sub,203.05,40
+1577,Mrs. Erica Courtney,Dragon Wok,Schezwan Rice,398.99,19
+1578,Ms. Amy Kidney,Pasta Corner,Spaghetti Carbonara,419.96,43
+1579,Dr. Brett Toms,Noodle Paradise,Lo Mein,142.33,12
+1580,Charlie Goff,Burger King,Royal Burger,371.15,43
+1581,Miss Shelley McGuill,Pizza Hut,Cheese Pizza,189.94,12
+1582,Mrs. Brooke Johnston,Noodle Paradise,Ramen,199.98,12
+1583,Sara Neelin,Pizza Hut,Paneer Pizza,60.12,58
+1584,Anton Green,Biryani House,Mutton Biryani,194.4,22
+1585,Rhian Cumiskey,Biryani House,Vegetable Biryani,289.52,59
+1586,Naoimh Halpen,Burger King,Whopper Burger,172.69,20
+1587,Hayley MacDonnell,Biryani House,Chicken Biryani,56.87,49
+1588,Cassandra Carley,Mc Donalds,Big Mac,142.96,32
+1589,Mrs. Dawn Phayre,Mc Donalds,McVeggie,171.97,55
+1590,Dr. Deane McCurtin,Pasta Corner,Fettuccine Alfredo,308.34,20
+1591,Donal Devally,Pizza Hut,Paneer Pizza,325.97,31
+1592,William Mulrooney,Mc Donalds,McSpicy,72.83,11
+1593,Ailis Forkin,Burger King,Whopper Burger,97.67,13
+1594,Dr. Stefan Dirrane,Pizza Hut,Chicken Pizza,226.36,55
+1595,Seanna Hurd,Taco Bell,Quesadilla,327.34,29
+1596,Ashley O'Sharkey,Taj Mahal,Tandoori Chicken,370.8,52
+1597,Ms. Geraldine Cross,Pasta Corner,Spaghetti Carbonara,488.16,58
+1598,Conrad Riney,Pasta Corner,Lasagna,305.51,15
+1599,Trevor Marron,Pasta Corner,Lasagna,93.77,29
+1600,Mr. Blake McCorkill,Noodle Paradise,Chow Mein,261.75,24
+1601,Meredith Moody,Subway,Turkey Sub,460.79,35
+1602,David Holden,Subway,Turkey Sub,404.95,30
+1603,Nicole Trujillo,Burger King,Royal Burger,63.62,40
+1604,Corey Norris,Pizza Hut,Paneer Pizza,265.39,20
+1605,Chad Roach,Biryani House,Vegetable Biryani,322.0,18
+1606,Mr. Edward Terry,Mc Donalds,Big Mac,232.56,55
+1607,Cody Bailey,Pasta Corner,Spaghetti Carbonara,196.64,51
+1608,Denise Guerra,Pizza Hut,Paneer Pizza,289.74,35
+1609,Kristen Jones,Taco Bell,Quesadilla,157.36,25
+1610,Edward Baker,Mc Donalds,Quarter Pounder,488.25,34
+1611,Aaron Little,Pizza Hut,Paneer Pizza,143.71,54
+1612,Cody Smith,Taco Bell,Quesadilla,402.94,37
+1613,Patty Allen,Taco Bell,Burrito,295.04,25
+1614,Mary Ryan,Subway,Veggie Sub,382.72,55
+1615,Joseph Jimenez,Taco Bell,Quesadilla,101.45,48
+1616,Lisa Morris,Burger King,Spicy Burger,299.79,38
+1617,Ashley Mills,Subway,Turkey Sub,480.15,14
+1618,Russell Anderson,Taco Bell,Crunchy Taco,358.48,48
+1619,Christina Washington,Pasta Corner,Lasagna,197.33,51
+1620,Kenneth Huff,Noodle Paradise,Ramen,90.74,18
+1621,Kelly Miles,Taco Bell,Crunchy Taco,390.68,52
+1622,Jacob Obrien,Subway,Italian BMT,289.07,34
+1623,Timothy Clark,Taco Bell,Quesadilla,138.05,53
+1624,Steve Miller PhD,Taj Mahal,Butter Chicken,306.62,53
+1625,Justin Hurley,Biryani House,Hyderabadi Dum Biryani,373.01,32
+1626,Jacob Erickson,Pizza Hut,Cheese Pizza,325.17,42
+1627,Deborah Williams,Spice Kitchen,Aloo Gobi,433.63,13
+1628,Eric Blackburn,Taj Mahal,Paneer Tikka,50.38,45
+1629,Anne Hardy,Taj Mahal,Paneer Tikka,437.56,11
+1630,Chelsey Fox,KFC,Chicken Wings,366.0,35
+1631,Mario White,Noodle Paradise,Pad Thai,370.3,35
+1632,Jennifer Garcia,Spice Kitchen,Rogan Josh,295.3,52
+1633,Heather Ellis,Subway,Italian BMT,112.58,45
+1634,Sonya Jackson,Spice Kitchen,Paneer Curry,427.98,19
+1635,James Morgan,Biryani House,Mutton Biryani,110.42,14
+1636,Zachary Ramos,Noodle Paradise,Ramen,114.8,41
+1637,Ethan Frey,Noodle Paradise,Chow Mein,488.74,18
+1638,Jacob Duran,Pizza Hut,Super Cheese Pizza,339.01,36
+1639,Nicholas Franklin,Burger King,Royal Burger,330.46,39
+1640,Cindy Cannon,Mc Donalds,McSpicy,298.42,38
+1641,Dawn Nixon,Spice Kitchen,Paneer Curry,151.58,37
+1642,James Barber,Taco Bell,Crunchy Taco,310.07,56
+1643,Ms. Kelly Holder,KFC,Zinger Burger,234.88,44
+1644,Eric Walker,Taco Bell,Burrito,65.06,12
+1645,Alison Short,Taco Bell,Quesadilla,367.2,17
+1646,Desiree Spencer,Taco Bell,Quesadilla,482.78,15
+1647,Tammy Moore,Subway,Turkey Sub,259.22,15
+1648,Henry Taylor,Mc Donalds,Big Mac,160.35,50
+1649,Kevin Hall,Dragon Wok,Fried Rice,357.83,44
+1650,Anna Ross,Pasta Corner,Fettuccine Alfredo,325.87,31
+1651,Morgan Cummings,Mc Donalds,Big Mac,260.99,42
+1652,Carrie Petersen,Burger King,Spicy Burger,239.46,28
+1653,Laura Velez,Biryani House,Mutton Biryani,65.9,48
+1654,Elizabeth Cross,Dragon Wok,Schezwan Rice,377.14,46
+1655,Angela Brown,Biryani House,Chicken Biryani,333.19,47
+1656,Hannah Montoya,Subway,Veggie Sub,345.34,28
+1657,Sean Kane,Pasta Corner,Spaghetti Carbonara,179.07,15
+1658,Matthew Guzman,Subway,Veggie Sub,433.15,27
+1659,Richard Reyes,Biryani House,Mutton Biryani,327.11,27
+1660,Andrew Fernandez,Biryani House,Chicken Biryani,383.64,48
+1661,Jonathan Walker,Subway,Chicken Sub,346.62,33
+1662,Nicholas Long,Pasta Corner,Penne Arrabbiata,167.56,54
+1663,Kurt Wagner,KFC,Chicken Wings,131.36,43
+1664,Dylan Foster,Dominos,Veggie Pizza,492.83,19
+1665,Bradley Duncan,Taco Bell,Soft Taco,426.93,58
+1666,James Miller,Spice Kitchen,Rogan Josh,157.08,38
+1667,Patricia Anderson,Dragon Wok,Egg Noodles,144.89,56
+1668,Justin Freeman,Taj Mahal,Paneer Tikka,339.02,58
+1669,Christina Gilbert,Pizza Hut,Cheese Pizza,125.42,35
+1670,Danielle Jones,Burger King,Spicy Burger,264.32,58
+1671,Erica Glass,Mc Donalds,Quarter Pounder,220.91,55
+1672,Michael Henderson,Spice Kitchen,Rogan Josh,168.18,43
+1673,Frank Wheeler,Spice Kitchen,Chana Masala,179.96,38
+1674,Eric Huerta,Spice Kitchen,Paneer Curry,482.79,53
+1675,Wanda Ramos,Dominos,Pepperoni Pizza,462.97,50
+1676,Andrew Meyers,Taj Mahal,Dal Makhani,324.72,51
+1677,James Todd,Biryani House,Vegetable Biryani,171.65,16
+1678,Ashley Brown,Biryani House,Hyderabadi Dum Biryani,257.5,53
+1679,Tammy Melton,Dragon Wok,Egg Noodles,380.44,47
+1680,Alexis Benson,Pasta Corner,Penne Arrabbiata,283.98,53
+1681,Jerry Johnson,Dragon Wok,Egg Noodles,190.97,10
+1682,Joshua Harris,Noodle Paradise,Ramen,424.26,10
+1683,Deanna Webb,Spice Kitchen,Chana Masala,286.37,53
+1684,Brenda Hale,Burger King,Spicy Burger,148.74,28
+1685,Kevin Alvarado,Biryani House,Mutton Biryani,65.32,49
+1686,Christopher Campbell,Pizza Hut,Cheese Pizza,472.33,52
+1687,Lisa Brown,KFC,Chicken Bucket,368.63,17
+1688,Alejandra Price,Pizza Hut,Super Cheese Pizza,219.18,58
+1689,Samuel Keller,Noodle Paradise,Lo Mein,453.2,54
+1690,Alicia Dillon,Subway,Turkey Sub,182.56,52
+1691,Crystal James,Pizza Hut,Chicken Pizza,465.21,27
+1692,Ariana Stewart,Pasta Corner,Lasagna,361.5,52
+1693,Kim Lopez,Pasta Corner,Fettuccine Alfredo,165.8,59
+1694,Judith House,Pizza Hut,Paneer Pizza,399.7,34
+1695,David Moreno,Spice Kitchen,Paneer Curry,498.18,26
+1696,James Moore,Biryani House,Mutton Biryani,248.26,41
+1697,Harold Garrett,KFC,Chicken Wings,130.3,41
+1698,William Mason,Pizza Hut,Super Cheese Pizza,293.28,37
+1699,Lori Johns,KFC,Chicken Bucket,460.67,55
+1700,Robin Johnson,Biryani House,Chicken Biryani,65.69,14
+1701,Diana Hernandez,Taco Bell,Burrito,399.76,11
+1702,Mary Miller,Burger King,Crispy Veg Burger,343.79,10
+1703,Tyler Salazar,Dominos,BBQ Chicken Pizza,169.9,54
+1704,Crystal Allen,Taj Mahal,Dal Makhani,308.59,42
+1705,Wesley Browning,Dragon Wok,Hakka Noodles,265.16,35
+1706,Joshua Clark,Dragon Wok,Fried Rice,293.06,10
+1707,Joshua Mcbride,Spice Kitchen,Rogan Josh,104.54,44
+1708,Ellen Thornton,Taj Mahal,Butter Chicken,356.83,35
+1709,Brandy Forbes,Dominos,Pepperoni Pizza,214.41,31
+1710,Brianna Fitzpatrick,Pizza Hut,Chicken Pizza,392.2,28
+1711,Emily Grant,Noodle Paradise,Lo Mein,129.48,12
+1712,Bailey Stewart,Spice Kitchen,Aloo Gobi,184.49,34
+1713,Monica Cannon,Pizza Hut,Paneer Pizza,268.93,50
+1714,Jennifer Jenkins,Burger King,Crispy Veg Burger,112.97,22
+1715,Timothy Shannon,Dominos,Margherita Pizza,270.15,14
+1716,Denise Maxwell,Pasta Corner,Fettuccine Alfredo,274.86,38
+1717,Cody Farmer,Dominos,Pepperoni Pizza,202.68,31
+1718,Debra Bradley,Pasta Corner,Spaghetti Carbonara,232.48,23
+1719,David Mcdaniel,Pasta Corner,Lasagna,473.04,44
+1720,Michael Woods,Subway,Chicken Sub,466.17,12
+1721,Lisa Joseph,Dragon Wok,Egg Noodles,270.0,11
+1722,Samuel Henry,Burger King,Whopper Burger,159.21,51
+1723,Corey Johnson,Subway,Veggie Sub,127.51,13
+1724,Alexis Nelson,Biryani House,Chicken Biryani,255.28,20
+1725,Patrick Mcneil,Taco Bell,Crunchy Taco,418.01,16
+1726,Andrea Ho,Pizza Hut,Chicken Pizza,317.74,49
+1727,Dr. Katherine Nguyen,KFC,Chicken Bucket,412.0,37
+1728,David Sullivan,Taj Mahal,Dal Makhani,195.91,53
+1729,Nicolas James,Taco Bell,Soft Taco,194.72,60
+1730,Logan Newton,KFC,Chicken Bucket,316.89,31
+1731,Kelly Liu,Pizza Hut,Cheese Pizza,173.25,58
+1732,Kelly Hayes,Spice Kitchen,Aloo Gobi,363.33,45
+1733,Amanda Forbes,Subway,Italian BMT,159.64,47
+1734,Jennifer Moss,Dominos,Margherita Pizza,94.99,50
+1735,Kelli Mccoy,Taco Bell,Quesadilla,399.95,11
+1736,Eddie Sanders,Burger King,Whopper Burger,52.86,21
+1737,Ronald Murray,Pizza Hut,Paneer Pizza,237.3,60
+1738,Louis Brown,Pasta Corner,Lasagna,361.56,23
+1739,Brenda Gallegos,Subway,Turkey Sub,285.39,36
+1740,Nathan Wilson,KFC,Chicken Strips,324.74,12
+1741,Teresa Horton,Taco Bell,Soft Taco,372.74,49
+1742,Jason Hayes,Pizza Hut,Paneer Pizza,206.53,10
+1743,Kevin Marquez,Mc Donalds,Quarter Pounder,136.36,43
+1744,Jesse Wright,Pizza Hut,Paneer Pizza,438.23,44
+1745,Susan Hogan,Mc Donalds,Quarter Pounder,258.9,50
+1746,Becky Wilson,Noodle Paradise,Lo Mein,174.39,22
+1747,Jack Mills,Pizza Hut,Super Cheese Pizza,358.36,40
+1748,Richard Hunt,Burger King,Crispy Veg Burger,121.89,12
+1749,Jamie James,Dominos,Veggie Pizza,178.28,37
+1750,Susan Cunningham,Biryani House,Vegetable Biryani,327.57,58
+1751,Brittany Melton,Burger King,Whopper Burger,96.99,13
+1752,Michael Barnes,Mc Donalds,Quarter Pounder,121.12,11
+1753,Randy Griffin,Burger King,Whopper Burger,81.89,25
+1754,Autumn Anderson,Dragon Wok,Hakka Noodles,316.72,30
+1755,Marcus King,Spice Kitchen,Aloo Gobi,386.19,30
+1756,Scott Stephens,KFC,Chicken Bucket,196.76,16
+1757,Stephen Young,KFC,Chicken Wings,441.45,34
+1758,Karen Ortiz,KFC,Chicken Bucket,261.95,41
+1759,Kyle Sanchez,Dominos,BBQ Chicken Pizza,115.22,49
+1760,Lisa Grant,Burger King,Crispy Veg Burger,224.3,18
+1761,Amber Hernandez,Burger King,Crispy Veg Burger,334.41,27
+1762,Amanda Nash,KFC,Zinger Burger,107.25,54
+1763,Sara Evans,Taco Bell,Crunchy Taco,176.27,17
+1764,Amber Butler,Burger King,Royal Burger,238.2,58
+1765,Michael Carr,Taj Mahal,Tandoori Chicken,448.88,48
+1766,Linda Cobb,Subway,Chicken Sub,310.15,45
+1767,Jesse Riley,KFC,Chicken Bucket,235.26,43
+1768,Anna Evans,Burger King,Crispy Veg Burger,316.21,39
+1769,James Jones,Biryani House,Chicken Biryani,378.51,57
+1770,Joshua Carter,KFC,Chicken Strips,197.28,47
+1771,Michael Hill,KFC,Chicken Strips,461.19,10
+1772,Kelly Dominguez,Spice Kitchen,Chana Masala,68.03,40
+1773,Ashley Blair,Dragon Wok,Fried Rice,241.56,35
+1774,Victoria Webb,Burger King,Whopper Burger,253.6,25
+1775,Taylor Andersen,Pizza Hut,Cheese Pizza,361.92,36
+1776,Lee Stewart,KFC,Chicken Strips,211.28,25
+1777,Whitney Gomez,Noodle Paradise,Ramen,57.17,52
+1778,Justin Stone,Biryani House,Mutton Biryani,366.49,46
+1779,Katherine White,Dragon Wok,Fried Rice,489.39,39
+1780,Michelle Krause,Pasta Corner,Penne Arrabbiata,443.39,35
+1781,Alexander Garrett,Subway,Turkey Sub,332.06,55
+1782,Ryan Marsh,Noodle Paradise,Ramen,437.17,14
+1783,Mrs. Felicia Castro DDS,Spice Kitchen,Paneer Curry,288.91,28
+1784,Curtis Campbell,Spice Kitchen,Paneer Curry,364.12,49
+1785,Elizabeth Hunter,Mc Donalds,Quarter Pounder,404.46,15
+1786,Aaron Jennings,Taco Bell,Burrito,381.09,13
+1787,Nathaniel Gilbert,Mc Donalds,McVeggie,449.59,17
+1788,Christopher Rivera,Spice Kitchen,Paneer Curry,259.41,12
+1789,Michael Hendricks,Taj Mahal,Butter Chicken,128.87,45
+1790,Maria Olson,Dragon Wok,Fried Rice,302.34,59
+1791,Stephanie Herrera,KFC,Chicken Strips,491.56,25
+1792,Richard Gutierrez,Mc Donalds,Big Mac,342.07,57
+1793,Sandy Evans,Pasta Corner,Penne Arrabbiata,388.93,58
+1794,Emily Herrera,KFC,Zinger Burger,208.72,27
+1795,Michael Marsh,Mc Donalds,McSpicy,174.72,14
+1796,Heather Montes,Taj Mahal,Butter Chicken,253.58,42
+1797,Andre Terrell,Mc Donalds,Big Mac,261.57,44
+1798,Sarah Duncan,Noodle Paradise,Pad Thai,253.39,33
+1799,Kurt Hancock,Pasta Corner,Spaghetti Carbonara,134.76,39
+1800,Michele Edwards,Pizza Hut,Cheese Pizza,225.81,21
+1801,Jason Crawford,Biryani House,Chicken Biryani,99.21,27
+1802,Jesse Sampson,Pizza Hut,Super Cheese Pizza,273.35,23
+1803,Eric Rodriguez,Mc Donalds,Big Mac,181.93,53
+1804,Paula Gentry,Mc Donalds,Quarter Pounder,263.26,36
+1805,Alexander Webb,Burger King,Whopper Burger,181.18,14
+1806,Cheryl Mclean,Dominos,Margherita Pizza,425.73,43
+1807,Kelly Rowe,Noodle Paradise,Pad Thai,235.26,31
+1808,Shane Short,Noodle Paradise,Pad Thai,268.77,52
+1809,Megan Anderson,Dragon Wok,Hakka Noodles,256.1,46
+1810,Julia Reeves,Subway,Turkey Sub,127.28,26
+1811,April Randolph,KFC,Chicken Wings,217.36,28
+1812,Linda Miller,Pasta Corner,Spaghetti Carbonara,116.75,28
+1813,Angel Meyer,Burger King,Crispy Veg Burger,328.38,20
+1814,Emily Lane,Dragon Wok,Schezwan Rice,132.03,21
+1815,Steven Flores,Dragon Wok,Egg Noodles,122.56,17
+1816,Donald Flores,Dominos,Veggie Pizza,308.54,38
+1817,Bruce Hernandez,Biryani House,Vegetable Biryani,133.02,45
+1818,Adrian Dean,Dragon Wok,Fried Rice,349.5,32
+1819,Christine Bell,Subway,Turkey Sub,251.79,20
+1820,Charles Bush,Mc Donalds,McVeggie,104.67,11
+1821,David Jones,Spice Kitchen,Rogan Josh,395.83,39
+1822,Gina Wallace,Taj Mahal,Tandoori Chicken,51.93,57
+1823,John Lowe,Mc Donalds,McVeggie,341.26,28
+1824,Anthony Simmons,Burger King,Spicy Burger,486.32,58
+1825,Kyle Watkins,Taco Bell,Soft Taco,409.81,56
+1826,Melissa Jensen,Burger King,Spicy Burger,360.12,56
+1827,Robert Marquez,Burger King,Whopper Burger,112.74,45
+1828,Kim Beltran,Pizza Hut,Paneer Pizza,61.16,49
+1829,Julie Anderson,KFC,Chicken Wings,210.83,30
+1830,Tamara Mcdonald,Dominos,Margherita Pizza,312.54,24
+1831,Michael Mckinney,Pasta Corner,Fettuccine Alfredo,138.07,15
+1832,David Walker,Mc Donalds,McSpicy,354.68,15
+1833,Lisa Durham,Mc Donalds,McSpicy,137.5,30
+1834,Michael Ortega,Taco Bell,Crunchy Taco,458.8,33
+1835,Sonya Chavez,Spice Kitchen,Aloo Gobi,372.18,37
+1836,John Bell,Taj Mahal,Dal Makhani,217.77,28
+1837,Christopher Tate,Taj Mahal,Butter Chicken,188.64,38
+1838,Bethany Garcia,Mc Donalds,Big Mac,147.06,38
+1839,Rebecca Nguyen,Dragon Wok,Hakka Noodles,411.66,28
+1840,Rebecca Patel,Subway,Italian BMT,377.87,36
+1841,Jason Oliver,Subway,Veggie Sub,114.64,29
+1842,Valerie Reyes,Burger King,Spicy Burger,79.75,47
+1843,Robert Garza,Pasta Corner,Lasagna,89.8,36
+1844,Jessica Cobb,Noodle Paradise,Pad Thai,236.53,45
+1845,Cynthia Bates,Burger King,Crispy Veg Burger,139.67,34
+1846,Timothy Andrews,Biryani House,Hyderabadi Dum Biryani,69.0,29
+1847,Mr. Joel Peters,Taco Bell,Burrito,272.35,57
+1848,Casey Blanchard,Burger King,Crispy Veg Burger,62.08,10
+1849,Brian Cervantes,Subway,Turkey Sub,185.08,50
+1850,Jamie Snyder,Noodle Paradise,Chow Mein,105.88,52
+1851,Ann Montoya,Biryani House,Hyderabadi Dum Biryani,130.72,54
+1852,Stephanie Fields,Noodle Paradise,Lo Mein,62.8,58
+1853,Charles Hernandez,Biryani House,Hyderabadi Dum Biryani,497.45,14
+1854,Jean Lane,Taco Bell,Burrito,311.48,46
+1855,Michael Stewart,Spice Kitchen,Paneer Curry,332.6,40
+1856,Susan Torres,Dragon Wok,Fried Rice,217.94,56
+1857,Jessica Haas,Taco Bell,Crunchy Taco,430.38,20
+1858,Brandon Smith,Taco Bell,Crunchy Taco,115.76,39
+1859,Mrs. Bethany Phillips,Dragon Wok,Egg Noodles,210.82,13
+1860,Joshua Brown,Biryani House,Vegetable Biryani,238.78,32
+1861,Samantha Howard,Dominos,Veggie Pizza,181.25,50
+1862,Sharon Young,Pizza Hut,Super Cheese Pizza,394.9,21
+1863,Jennifer Flores,Pasta Corner,Spaghetti Carbonara,319.44,20
+1864,James Gardner,Mc Donalds,McVeggie,442.6,53
+1865,Karen Lopez,Pasta Corner,Fettuccine Alfredo,172.16,54
+1866,Tim Larsen,Dragon Wok,Schezwan Rice,93.13,47
+1867,Zachary Santiago,Taj Mahal,Tandoori Chicken,55.8,43
+1868,Benjamin Smith,Biryani House,Vegetable Biryani,400.46,36
+1869,Katelyn Kim,Taj Mahal,Tandoori Chicken,96.09,19
+1870,Angela May MD,Mc Donalds,Quarter Pounder,424.21,60
+1871,Richard Munoz,Mc Donalds,Big Mac,237.81,14
+1872,Christopher Hicks,Pizza Hut,Super Cheese Pizza,465.53,40
+1873,Joanna Kelly,Taj Mahal,Butter Chicken,360.97,18
+1874,Larry Lane,Burger King,Spicy Burger,127.49,29
+1875,Cynthia Shaw,Dominos,Pepperoni Pizza,150.06,54
+1876,Joshua Richardson,Subway,Chicken Sub,188.34,23
+1877,Laura Bush,Subway,Veggie Sub,241.16,58
+1878,John Vaughn,Pasta Corner,Spaghetti Carbonara,84.98,59
+1879,Nicholas Terrell,Burger King,Royal Burger,69.13,16
+1880,Dr. Julie Miller,Dominos,Pepperoni Pizza,261.09,26
+1881,Ann Kennedy,Dominos,Pepperoni Pizza,185.74,10
+1882,Toni Miller,Pasta Corner,Spaghetti Carbonara,402.07,48
+1883,Rebecca Edwards,KFC,Chicken Strips,133.15,32
+1884,Greg Osborne,Dominos,Pepperoni Pizza,115.5,57
+1885,Jose Harrison,Biryani House,Vegetable Biryani,208.49,42
+1886,Jennifer Yu,Pasta Corner,Penne Arrabbiata,277.21,14
+1887,Donna Johnson,Pizza Hut,Cheese Pizza,287.98,55
+1888,Nicole Acosta,KFC,Zinger Burger,127.3,58
+1889,Amy Kennedy,Mc Donalds,Big Mac,488.11,16
+1890,Anthony Mooney,KFC,Chicken Wings,214.91,47
+1891,Lori Mitchell,Subway,Italian BMT,353.09,16
+1892,Jonathan York,Subway,Turkey Sub,491.59,37
+1893,Casey Campbell,KFC,Chicken Strips,233.41,58
+1894,Alexis Rodriguez,Taj Mahal,Paneer Tikka,259.66,43
+1895,Kevin Hernandez,Subway,Italian BMT,393.02,55
+1896,Robert Green,Biryani House,Chicken Biryani,87.01,41
+1897,Kari Lloyd,Pizza Hut,Chicken Pizza,177.63,48
+1898,Grace Miller,Dragon Wok,Schezwan Rice,359.17,38
+1899,Timothy Moore,KFC,Chicken Wings,180.77,37
+1900,Wyatt Townsend II,KFC,Chicken Bucket,452.64,40
+1901,Mark Clark,Noodle Paradise,Pad Thai,130.68,53
+1902,Haley May,Burger King,Whopper Burger,228.37,43
+1903,Audrey Jackson,Noodle Paradise,Ramen,103.65,35
+1904,Eric Reese,Spice Kitchen,Chana Masala,383.64,20
+1905,Kim James,Pizza Hut,Paneer Pizza,488.84,31
+1906,Karen Thomas,KFC,Chicken Wings,105.24,37
+1907,Alexandra Ho,Dragon Wok,Hakka Noodles,175.33,55
+1908,Michael Nixon,Pasta Corner,Fettuccine Alfredo,390.34,51
+1909,Amanda Hardin,Spice Kitchen,Paneer Curry,264.12,48
+1910,Tina Reynolds,Spice Kitchen,Rogan Josh,280.14,19
+1911,Shannon Rogers,Pasta Corner,Lasagna,98.62,26
+1912,Brett Pena,Burger King,Royal Burger,153.87,18
+1913,Raymond Curry,Dominos,Pepperoni Pizza,382.01,14
+1914,Leah Lee,Burger King,Whopper Burger,487.43,34
+1915,Michael White,Taco Bell,Burrito,118.73,49
+1916,Megan Decker,Taco Bell,Crunchy Taco,392.08,52
+1917,Brent Garcia,Pasta Corner,Lasagna,406.73,22
+1918,Daniel Campbell,Biryani House,Hyderabadi Dum Biryani,270.61,26
+1919,Alexander Davis,Mc Donalds,McVeggie,414.27,44
+1920,Mary Houston,Mc Donalds,Big Mac,478.66,12
+1921,Margaret Erickson,Spice Kitchen,Chana Masala,222.63,30
+1922,Scott Anderson,Spice Kitchen,Rogan Josh,256.85,12
+1923,Stephanie Knight,Subway,Turkey Sub,448.12,20
+1924,Stephanie Dominguez,Burger King,Royal Burger,110.52,55
+1925,John Mayer,Spice Kitchen,Rogan Josh,393.81,46
+1926,Tammy Hill,Noodle Paradise,Chow Mein,347.04,53
+1927,Steven Carrillo,Mc Donalds,McSpicy,264.16,20
+1928,Christopher Jones,Mc Donalds,Big Mac,226.12,41
+1929,Janet Cook,Taco Bell,Quesadilla,327.62,32
+1930,Tyler Baker,Pasta Corner,Fettuccine Alfredo,194.22,11
+1931,John Mcfarland,Taco Bell,Crunchy Taco,107.69,33
+1932,Cassandra Vasquez,Taj Mahal,Paneer Tikka,394.34,50
+1933,Randy Robinson,Taj Mahal,Dal Makhani,93.81,32
+1934,Susan Baldwin,Taj Mahal,Dal Makhani,208.07,52
+1935,Benjamin Duncan,KFC,Chicken Strips,155.58,29
+1936,Jeremy Mosley,Taco Bell,Crunchy Taco,459.68,14
+1937,Martin Fitzpatrick,Biryani House,Chicken Biryani,201.92,11
+1938,Deborah Graves,Mc Donalds,McVeggie,66.82,52
+1939,Laura Robertson,Spice Kitchen,Rogan Josh,169.98,54
+1940,Katherine Graham,Burger King,Whopper Burger,493.59,34
+1941,Priscilla Floyd,Taco Bell,Quesadilla,195.09,16
+1942,April Finley,Pasta Corner,Lasagna,95.03,53
+1943,Karen Bradley,KFC,Zinger Burger,273.53,58
+1944,Heather Maldonado,Noodle Paradise,Pad Thai,124.98,29
+1945,Mark Benjamin,Taj Mahal,Dal Makhani,140.79,50
+1946,Joseph Woodward,Pasta Corner,Spaghetti Carbonara,428.17,44
+1947,Joe Miranda,KFC,Zinger Burger,169.32,29
+1948,Cassandra Williams,Taco Bell,Quesadilla,412.07,49
+1949,Connor Dominguez,Dragon Wok,Fried Rice,372.97,47
+1950,Lydia Howard,Pizza Hut,Paneer Pizza,173.01,46
+1951,Mark Moss,Pasta Corner,Lasagna,242.2,32
+1952,Corey Cortez,Pasta Corner,Spaghetti Carbonara,343.19,29
+1953,Katherine Brown,Mc Donalds,McVeggie,244.81,44
+1954,Elizabeth Ferguson,Taj Mahal,Tandoori Chicken,236.44,26
+1955,Joann Forbes,Taco Bell,Quesadilla,352.2,45
+1956,Anthony French,Subway,Veggie Sub,332.53,43
+1957,Bruce Roman,Subway,Italian BMT,145.83,57
+1958,Judy Gregory,Burger King,Spicy Burger,471.72,44
+1959,Brittany Riley,Pasta Corner,Lasagna,470.59,56
+1960,Amanda Thomas,Noodle Paradise,Ramen,285.02,33
+1961,Kaitlin Hardin,Burger King,Crispy Veg Burger,158.17,57
+1962,Michael Anderson,Noodle Paradise,Pad Thai,429.85,36
+1963,Anthony Parker,Taj Mahal,Paneer Tikka,335.27,36
+1964,Joy Jackson,Biryani House,Vegetable Biryani,340.72,26
+1965,Sabrina Rodriguez,Noodle Paradise,Lo Mein,232.64,17
+1966,Robert Walker PhD,Subway,Chicken Sub,62.47,29
+1967,Robert Hendrix,Burger King,Royal Burger,301.92,37
+1968,Erika Daugherty,Spice Kitchen,Chana Masala,140.9,27
+1969,Brenda Copeland,Subway,Veggie Sub,166.28,27
+1970,Pamela Watkins,Noodle Paradise,Lo Mein,339.93,12
+1971,Bryan Thomas,Dragon Wok,Hakka Noodles,402.01,13
+1972,Michael Tran,Pizza Hut,Paneer Pizza,320.72,14
+1973,Timothy Williams,Spice Kitchen,Paneer Curry,352.25,15
+1974,Ryan Salazar,Spice Kitchen,Aloo Gobi,156.22,46
+1975,Alexis Tucker,Dragon Wok,Fried Rice,284.88,47
+1976,Christopher Davis,Pasta Corner,Fettuccine Alfredo,273.4,15
+1977,Stacie Butler,KFC,Chicken Bucket,397.94,30
+1978,Patricia Schwartz,Taj Mahal,Dal Makhani,412.63,57
+1979,Mark Mills,KFC,Chicken Wings,148.1,16
+1980,Todd Bishop,Subway,Chicken Sub,486.47,38
+1981,Christopher Porter,Spice Kitchen,Paneer Curry,438.3,13
+1982,Lori Patton,Burger King,Spicy Burger,364.83,17
+1983,Aaron Young,Taj Mahal,Dal Makhani,263.68,25
+1984,Joseph Davis,Biryani House,Mutton Biryani,213.35,55
+1985,Philip Fernandez,Taj Mahal,Butter Chicken,59.48,48
+1986,Randy Hopkins,Dominos,Pepperoni Pizza,360.81,60
+1987,Cory Hogan,Noodle Paradise,Lo Mein,163.84,34
+1988,Tracy Wells,Biryani House,Vegetable Biryani,456.42,53
+1989,Michael Williams,Pizza Hut,Super Cheese Pizza,435.94,34
+1990,Dominique Hamilton,Dominos,BBQ Chicken Pizza,467.38,26
+1991,Robert Chang,Biryani House,Chicken Biryani,471.35,58
+1992,Patrick Buckley,KFC,Zinger Burger,144.67,20
+1993,Richard Washington,Burger King,Spicy Burger,445.76,59
+1994,Steven Griffith,Noodle Paradise,Chow Mein,405.19,27
+1995,Erika Gonzalez,Pizza Hut,Chicken Pizza,261.99,36
+1996,Erika Maxwell,Taj Mahal,Dal Makhani,444.54,16
+1997,Brent Rojas,Subway,Turkey Sub,277.85,32
+1998,Jaime Walker,Spice Kitchen,Paneer Curry,253.97,11
+1999,John Zamora,Pasta Corner,Spaghetti Carbonara,338.62,21
+2000,Timothy Gibson,Noodle Paradise,Chow Mein,405.96,18
